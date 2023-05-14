@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "description": "Academia",
+        "amount": -100,
+        "date": "2023-05-01"
+    },
+    {
+        "id": 2,
+        "description": "Supermercado",
+        "amount": -250,
+        "date": "2023-05-02"
+    },
+    {
+        "id": 3,
+        "description": "Cinema",
+        "amount": -50,
+        "date": "2023-05-03"
+    },
+    {
+        "id": 4,
+        "description": "Restaurante",
+        "amount": -80,
+        "date": "2023-05-05"
+    },
+    {
+        "id": 5,
+        "description": "Gasolina",
+        "amount": -70,
+        "date": "2023-05-06"
+    },
+    {
+        "id": 6,
+        "description": "Salário",
+        "amount": 5000,
+        "date": "2023-05-10"
+    },
+    {
+        "id": 7,
+        "description": "Luz",
+        "amount": -120,
+        "date": "2023-05-11"
+    },
+    {
+        "id": 8,
+        "description": "Água",
+        "amount": -80,
+        "date": "2023-05-12"
+    },
+    {
+        "id": 9,
+        "description": "Internet",
+        "amount": -100,
+        "date": "2023-05-15"
+    },
+    {
+        "id": 10,
+        "description": "Celular",
+        "amount": -50,
+        "date": "2023-05-17"
+    },
+    {
+        "id": 11,
+        "description": "Presente",
+        "amount": -60,
+        "date": "2023-05-19"
+    },
+    {
+        "id": 12,
+        "description": "Compras",
+        "amount": -200,
+        "date": "2023-05-20"
+    },
+    {
+        "id": 13,
+        "description": "Farmácia",
+        "amount": -90,
+        "date": "2023-05-22"
+    },
+    {
+        "id": 14,
+        "description": "Aluguel",
+        "amount": -800,
+        "date": "2023-05-25"
+    },
+    {
+        "id": 15,
+        "description": "Roupas",
+        "amount": -150,
+        "date": "2023-05-30"
+    },
+    {
+        "id": 16,
+        "description": "Investimentos",
+        "amount": 1000,
+        "date": "2023-05-30"
+    }
+]
