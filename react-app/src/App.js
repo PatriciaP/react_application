@@ -59,10 +59,10 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Finance Manager</h1>
+      <h1 className="title">Finance Manager</h1>
 
-      <h2>Transactions</h2>
-    <table>
+      <h2 className="subtitle">Transactions</h2>
+    <table className="table">
       <thead>
         <tr>
           <th>Description</th>
@@ -84,15 +84,15 @@ function App() {
           </tr>
         ))}
       </tbody>
-      <tfoot>
-        <tr>
-          <td><strong>Balance:</strong></td>
-          <td className={calculateBalance() < 0 ? 'negative' : 'positive'}>{Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(calculateBalance())}</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tfoot>
     </table>
+      <tfoot>
+      <tr>
+        <td><strong>Balance:</strong></td>
+        <td className={calculateBalance() < 0 ? 'negative' : 'positive'}>{Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(calculateBalance())}</td>
+        <td></td>
+        <td></td>
+      </tr>
+      </tfoot>
 
       <form onSubmit={handleSubmit}>
         <h2>{editingTransaction ? 'Edit Transaction' : 'Add Transaction'}</h2>
@@ -111,7 +111,7 @@ function App() {
         <button className="btn-primary" type="submit" >{editingTransaction ? 'Save' : 'Add'}</button>
       {editingTransaction && <button className="delete" type="btn-delete" onClick={cancelEditing}>Cancel</button>}
     </form>
-   
+
   </div>
   );
 }
