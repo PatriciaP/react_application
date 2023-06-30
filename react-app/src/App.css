@@ -164,9 +164,13 @@ input[type='date'] {
 }
 
 .form-group input[name="description"] {
-  width: 400px;
+  width: 420px;
 }
 
 .form-group input[name="amount"] {
   width: 150px;
+}
+
+.form-right {
+  float: right;
 }

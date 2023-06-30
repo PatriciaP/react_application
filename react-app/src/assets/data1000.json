@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 586,
+    "description": "PetShop",
+    "amount": 850,
+    "date": "2022-01-02",
+    "type": "expense"
+  },
+  {
+    "id": 127,
+    "description": "Manutenção do Lar",
+    "amount": 315,
+    "date": "2022-01-03",
+    "type": "expense"
+  },
+  {
+    "id": 186,
+    "description": "Suplementos",
+    "amount": 627,
+    "date": "2022-01-05",
+    "type": "expense"
+  },
+  {
+    "id": 920,
+    "description": "Cinema",
+    "amount": 919,
+    "date": "2022-01-06",
+    "type": "expense"
+  },
+  {
+    "id": 966,
+    "description": "Gasolina",
+    "amount": 73,
+    "date": "2022-01-06",
+    "type": "expense"
+  },
+  {
+    "id": 382,
+    "description": "Bônus",
+    "amount": 303,
+    "date": "2022-01-07",
+    "type": "income"
+  },
+  {
+    "id": 452,
+    "description": "Educação",
+    "amount": 653,
+    "date": "2022-01-10",
+    "type": "expense"
+  },
+  {
+    "id": 516,
+    "description": "Vendas",
+    "amount": 272,
+    "date": "2022-01-10",
+    "type": "income"
+  },
+  {
+    "id": 989,
+    "description": "Academia",
+    "amount": 499,
+    "date": "2022-01-10",
+    "type": "expense"
+  },
+  {
+    "id": 568,
+    "description": "Investimentos",
+    "amount": 670,
+    "date": "2022-01-11",
+    "type": "income"
+  },
+  {
+    "id": 936,
+    "description": "Investimentos",
+    "amount": 79,
+    "date": "2022-01-11",
+    "type": "income"
+  },
+  {
+    "id": 614,
+    "description": "Renda Extra",
+    "amount": 312,
+    "date": "2022-01-12",
+    "type": "income"
+  },
+  {
+    "id": 451,
+    "description": "Horas Extras",
+    "amount": 895,
+    "date": "2022-01-13",
+    "type": "income"
+  },
+  {
+    "id": 492,
+    "description": "Luz",
+    "amount": 792,
+    "date": "2022-01-13",
+    "type": "expense"
+  },
+  {
+    "id": 868,
+    "description": "Salário",
+    "amount": 274,
+    "date": "2022-01-16",
+    "type": "income"
+  },
+  {
+    "id": 92,
+    "description": "Outros Gastos",
+    "amount": 71,
+    "date": "2022-01-18",
+    "type": "expense"
+  },
+  {
+    "id": 219,
+    "description": "Consultoria",
+    "amount": 640,
+    "date": "2022-01-18",
+    "type": "expense"
+  },
+  {
+    "id": 67,
+    "description": "Água",
+    "amount": 450,
+    "date": "2022-01-21",
+    "type": "expense"
+  },
+  {
+    "id": 87,
+    "description": "Dividendos",
+    "amount": 959,
+    "date": "2022-01-21",
+    "type": "income"
+  },
+  {
+    "id": 716,
+    "description": "Investimentos",
+    "amount": 581,
+    "date": "2022-01-21",
+    "type": "income"
+  },
+  {
+    "id": 887,
+    "description": "Salário",
+    "amount": 73,
+    "date": "2022-01-21",
+    "type": "income"
+  },
+  {
+    "id": 688,
+    "description": "Investimentos",
+    "amount": 421,
+    "date": "2022-01-22",
+    "type": "income"
+  },
+  {
+    "id": 290,
+    "description": "Educação",
+    "amount": 843,
+    "date": "2022-01-23",
+    "type": "expense"
+  },
+  {
+    "id": 12,
+    "description": "Reembolso",
+    "amount": 723,
+    "date": "2022-01-25",
+    "type": "income"
+  },
+  {
+    "id": 675,
+    "description": "Outras Receitas",
+    "amount": 180,
+    "date": "2022-01-25",
+    "type": "income"
+  },
+  {
+    "id": 732,
+    "description": "Vestuário",
+    "amount": 160,
+    "date": "2022-01-27",
+    "type": "expense"
+  },
+  {
+    "id": 482,
+    "description": "Salão",
+    "amount": 97,
+    "date": "2022-01-28",
+    "type": "expense"
+  },
+  {
+    "id": 762,
+    "description": "Bônus",
+    "amount": 843,
+    "date": "2022-01-28",
+    "type": "income"
+  },
+  {
+    "id": 711,
+    "description": "Educação",
+    "amount": 572,
+    "date": "2022-01-29",
+    "type": "expense"
+  },
+  {
+    "id": 889,
+    "description": "Salário",
+    "amount": 921,
+    "date": "2022-01-29",
+    "type": "income"
+  },
+  {
+    "id": 600,
+    "description": "Impostos",
+    "amount": 497,
+    "date": "2022-01-30",
+    "type": "expense"
+  },
+  {
+    "id": 288,
+    "description": "Bônus",
+    "amount": 985,
+    "date": "2022-02-02",
+    "type": "income"
+  },
+  {
+    "id": 610,
+    "description": "Bônus",
+    "amount": 406,
+    "date": "2022-02-04",
+    "type": "income"
+  },
+  {
+    "id": 700,
+    "description": "Viagem",
+    "amount": 460,
+    "date": "2022-02-04",
+    "type": "expense"
+  },
+  {
+    "id": 463,
+    "description": "Educação",
+    "amount": 251,
+    "date": "2022-02-05",
+    "type": "expense"
+  },
+  {
+    "id": 138,
+    "description": "Consultoria",
+    "amount": 30,
+    "date": "2022-02-06",
+    "type": "expense"
+  },
+  {
+    "id": 1,
+    "description": "Renda Extra",
+    "amount": 489,
+    "date": "2022-02-07",
+    "type": "income"
+  },
+  {
+    "id": 187,
+    "description": "Reembolso",
+    "amount": 725,
+    "date": "2022-02-07",
+    "type": "income"
+  },
+  {
+    "id": 359,
+    "description": "Viagem",
+    "amount": 997,
+    "date": "2022-02-07",
+    "type": "expense"
+  },
+  {
+    "id": 938,
+    "description": "Luz",
+    "amount": 203,
+    "date": "2022-02-07",
+    "type": "expense"
+  },
+  {
+    "id": 443,
+    "description": "Consultoria",
+    "amount": 953,
+    "date": "2022-02-08",
+    "type": "expense"
+  },
+  {
+    "id": 466,
+    "description": "Restaurante",
+    "amount": 646,
+    "date": "2022-02-08",
+    "type": "expense"
+  },
+  {
+    "id": 267,
+    "description": "Renda Extra",
+    "amount": 361,
+    "date": "2022-02-09",
+    "type": "income"
+  },
+  {
+    "id": 471,
+    "description": "Reembolso",
+    "amount": 557,
+    "date": "2022-02-09",
+    "type": "income"
+  },
+  {
+    "id": 785,
+    "description": "Outros Gastos",
+    "amount": 261,
+    "date": "2022-02-09",
+    "type": "expense"
+  },
+  {
+    "id": 192,
+    "description": "Prêmios",
+    "amount": 440,
+    "date": "2022-02-10",
+    "type": "income"
+  },
+  {
+    "id": 549,
+    "description": "Aluguel de Imóveis",
+    "amount": 950,
+    "date": "2022-02-11",
+    "type": "income"
+  },
+  {
+    "id": 984,
+    "description": "Dividendos",
+    "amount": 25,
+    "date": "2022-02-12",
+    "type": "income"
+  },
+  {
+    "id": 808,
+    "description": "Supermercado",
+    "amount": 774,
+    "date": "2022-02-13",
+    "type": "expense"
+  },
+  {
+    "id": 931,
+    "description": "Renda Extra",
+    "amount": 830,
+    "date": "2022-02-13",
+    "type": "income"
+  },
+  {
+    "id": 38,
+    "description": "Consultoria",
+    "amount": 108,
+    "date": "2022-02-14",
+    "type": "expense"
+  },
+  {
+    "id": 572,
+    "description": "Consultoria",
+    "amount": 3,
+    "date": "2022-02-14",
+    "type": "expense"
+  },
+  {
+    "id": 809,
+    "description": "Investimentos",
+    "amount": 954,
+    "date": "2022-02-14",
+    "type": "income"
+  },
+  {
+    "id": 911,
+    "description": "PetShop",
+    "amount": 264,
+    "date": "2022-02-15",
+    "type": "expense"
+  },
+  {
+    "id": 387,
+    "description": "Horas Extras",
+    "amount": 808,
+    "date": "2022-02-16",
+    "type": "income"
+  },
+  {
+    "id": 644,
+    "description": "Água",
+    "amount": 753,
+    "date": "2022-02-16",
+    "type": "expense"
+  },
+  {
+    "id": 206,
+    "description": "Suplementos",
+    "amount": 439,
+    "date": "2022-02-17",
+    "type": "expense"
+  },
+  {
+    "id": 248,
+    "description": "Prêmios",
+    "amount": 722,
+    "date": "2022-02-18",
+    "type": "income"
+  },
+  {
+    "id": 245,
+    "description": "Investimentos",
+    "amount": 254,
+    "date": "2022-02-20",
+    "type": "income"
+  },
+  {
+    "id": 446,
+    "description": "Dividendos",
+    "amount": 31,
+    "date": "2022-02-20",
+    "type": "income"
+  },
+  {
+    "id": 660,
+    "description": "Aluguel de Imóveis",
+    "amount": 90,
+    "date": "2022-02-20",
+    "type": "income"
+  },
+  {
+    "id": 666,
+    "description": "Transporte",
+    "amount": 428,
+    "date": "2022-02-20",
+    "type": "expense"
+  },
+  {
+    "id": 80,
+    "description": "Conta telefônica",
+    "amount": 297,
+    "date": "2022-02-21",
+    "type": "expense"
+  },
+  {
+    "id": 109,
+    "description": "Outros Gastos",
+    "amount": 384,
+    "date": "2022-02-21",
+    "type": "expense"
+  },
+  {
+    "id": 731,
+    "description": "Renda Extra",
+    "amount": 716,
+    "date": "2022-02-23",
+    "type": "income"
+  },
+  {
+    "id": 856,
+    "description": "Transporte",
+    "amount": 236,
+    "date": "2022-02-23",
+    "type": "expense"
+  },
+  {
+    "id": 507,
+    "description": "Prêmios",
+    "amount": 66,
+    "date": "2022-02-25",
+    "type": "income"
+  },
+  {
+    "id": 694,
+    "description": "Viagem",
+    "amount": 960,
+    "date": "2022-02-25",
+    "type": "expense"
+  },
+  {
+    "id": 395,
+    "description": "Conta telefônica",
+    "amount": 436,
+    "date": "2022-02-26",
+    "type": "expense"
+  },
+  {
+    "id": 398,
+    "description": "Aluguel de Imóveis",
+    "amount": 404,
+    "date": "2022-03-02",
+    "type": "income"
+  },
+  {
+    "id": 734,
+    "description": "Aluguel de Imóveis",
+    "amount": 373,
+    "date": "2022-03-02",
+    "type": "income"
+  },
+  {
+    "id": 110,
+    "description": "Supermercado",
+    "amount": 58,
+    "date": "2022-03-04",
+    "type": "expense"
+  },
+  {
+    "id": 403,
+    "description": "Vendas",
+    "amount": 448,
+    "date": "2022-03-04",
+    "type": "income"
+  },
+  {
+    "id": 802,
+    "description": "Bônus",
+    "amount": 942,
+    "date": "2022-03-04",
+    "type": "income"
+  },
+  {
+    "id": 560,
+    "description": "Investimentos",
+    "amount": 178,
+    "date": "2022-03-05",
+    "type": "income"
+  },
+  {
+    "id": 662,
+    "description": "Vendas",
+    "amount": 433,
+    "date": "2022-03-05",
+    "type": "income"
+  },
+  {
+    "id": 751,
+    "description": "Dividendos",
+    "amount": 493,
+    "date": "2022-03-05",
+    "type": "income"
+  },
+  {
+    "id": 51,
+    "description": "Outras Receitas",
+    "amount": 939,
+    "date": "2022-03-06",
+    "type": "income"
+  },
+  {
+    "id": 273,
+    "description": "Bônus",
+    "amount": 162,
+    "date": "2022-03-06",
+    "type": "income"
+  },
+  {
+    "id": 721,
+    "description": "Cuidados Pessoais",
+    "amount": 166,
+    "date": "2022-03-06",
+    "type": "expense"
+  },
+  {
+    "id": 101,
+    "description": "Outras Receitas",
+    "amount": 866,
+    "date": "2022-03-07",
+    "type": "income"
+  },
+  {
+    "id": 481,
+    "description": "Suplementos",
+    "amount": 174,
+    "date": "2022-03-07",
+    "type": "expense"
+  },
+  {
+    "id": 664,
+    "description": "Bônus",
+    "amount": 578,
+    "date": "2022-03-07",
+    "type": "income"
+  },
+  {
+    "id": 935,
+    "description": "Renda Extra",
+    "amount": 343,
+    "date": "2022-03-07",
+    "type": "income"
+  },
+  {
+    "id": 9,
+    "description": "Academia",
+    "amount": 788,
+    "date": "2022-03-08",
+    "type": "expense"
+  },
+  {
+    "id": 483,
+    "description": "Viagem",
+    "amount": 417,
+    "date": "2022-03-08",
+    "type": "expense"
+  },
+  {
+    "id": 611,
+    "description": "Reembolso",
+    "amount": 717,
+    "date": "2022-03-08",
+    "type": "income"
+  },
+  {
+    "id": 371,
+    "description": "Transporte",
+    "amount": 805,
+    "date": "2022-03-11",
+    "type": "expense"
+  },
+  {
+    "id": 150,
+    "description": "Manutenção do Lar",
+    "amount": 445,
+    "date": "2022-03-12",
+    "type": "expense"
+  },
+  {
+    "id": 749,
+    "description": "Gasolina",
+    "amount": 215,
+    "date": "2022-03-13",
+    "type": "expense"
+  },
+  {
+    "id": 957,
+    "description": "Reembolso",
+    "amount": 678,
+    "date": "2022-03-14",
+    "type": "income"
+  },
+  {
+    "id": 407,
+    "description": "Manipulados",
+    "amount": 479,
+    "date": "2022-03-15",
+    "type": "expense"
+  },
+  {
+    "id": 899,
+    "description": "Vendas",
+    "amount": 743,
+    "date": "2022-03-16",
+    "type": "income"
+  },
+  {
+    "id": 17,
+    "description": "PetShop",
+    "amount": 838,
+    "date": "2022-03-17",
+    "type": "expense"
+  },
+  {
+    "id": 183,
+    "description": "Horas Extras",
+    "amount": 992,
+    "date": "2022-03-17",
+    "type": "income"
+  },
+  {
+    "id": 459,
+    "description": "Cuidados Pessoais",
+    "amount": 120,
+    "date": "2022-03-17",
+    "type": "expense"
+  },
+  {
+    "id": 196,
+    "description": "Luz",
+    "amount": 356,
+    "date": "2022-03-18",
+    "type": "expense"
+  },
+  {
+    "id": 430,
+    "description": "Dividendos",
+    "amount": 227,
+    "date": "2022-03-19",
+    "type": "income"
+  },
+  {
+    "id": 579,
+    "description": "Renda Extra",
+    "amount": 259,
+    "date": "2022-03-19",
+    "type": "income"
+  },
+  {
+    "id": 112,
+    "description": "Cuidados Pessoais",
+    "amount": 512,
+    "date": "2022-03-20",
+    "type": "expense"
+  },
+  {
+    "id": 439,
+    "description": "Manipulados",
+    "amount": 879,
+    "date": "2022-03-20",
+    "type": "expense"
+  },
+  {
+    "id": 418,
+    "description": "Vestuário",
+    "amount": 383,
+    "date": "2022-03-21",
+    "type": "expense"
+  },
+  {
+    "id": 969,
+    "description": "Luz",
+    "amount": 652,
+    "date": "2022-03-21",
+    "type": "expense"
+  },
+  {
+    "id": 132,
+    "description": "Salário",
+    "amount": 40,
+    "date": "2022-03-22",
+    "type": "income"
+  },
+  {
+    "id": 860,
+    "description": "Gasolina",
+    "amount": 854,
+    "date": "2022-03-23",
+    "type": "expense"
+  },
+  {
+    "id": 169,
+    "description": "Reembolso",
+    "amount": 840,
+    "date": "2022-03-26",
+    "type": "income"
+  },
+  {
+    "id": 413,
+    "description": "Academia",
+    "amount": 455,
+    "date": "2022-03-27",
+    "type": "expense"
+  },
+  {
+    "id": 629,
+    "description": "Gasolina",
+    "amount": 767,
+    "date": "2022-03-27",
+    "type": "expense"
+  },
+  {
+    "id": 929,
+    "description": "Viagem",
+    "amount": 248,
+    "date": "2022-03-27",
+    "type": "expense"
+  },
+  {
+    "id": 988,
+    "description": "Academia",
+    "amount": 152,
+    "date": "2022-03-27",
+    "type": "expense"
+  },
+  {
+    "id": 236,
+    "description": "Aluguel de Imóveis",
+    "amount": 389,
+    "date": "2022-03-28",
+    "type": "income"
+  },
+  {
+    "id": 453,
+    "description": "Seguro",
+    "amount": 866,
+    "date": "2022-03-29",
+    "type": "expense"
+  },
+  {
+    "id": 680,
+    "description": "Outras Receitas",
+    "amount": 680,
+    "date": "2022-03-29",
+    "type": "income"
+  },
+  {
+    "id": 500,
+    "description": "Cuidados Pessoais",
+    "amount": 359,
+    "date": "2022-03-31",
+    "type": "expense"
+  },
+  {
+    "id": 851,
+    "description": "Entretenimento",
+    "amount": 865,
+    "date": "2022-03-31",
+    "type": "expense"
+  },
+  {
+    "id": 234,
+    "description": "Horas Extras",
+    "amount": 330,
+    "date": "2022-04-01",
+    "type": "income"
+  },
+  {
+    "id": 335,
+    "description": "Entretenimento",
+    "amount": 597,
+    "date": "2022-04-01",
+    "type": "expense"
+  },
+  {
+    "id": 89,
+    "description": "Vestuário",
+    "amount": 399,
+    "date": "2022-04-04",
+    "type": "expense"
+  },
+  {
+    "id": 556,
+    "description": "Horas Extras",
+    "amount": 794,
+    "date": "2022-04-05",
+    "type": "income"
+  },
+  {
+    "id": 592,
+    "description": "Outras Receitas",
+    "amount": 978,
+    "date": "2022-04-05",
+    "type": "income"
+  },
+  {
+    "id": 828,
+    "description": "Salário",
+    "amount": 590,
+    "date": "2022-04-06",
+    "type": "income"
+  },
+  {
+    "id": 13,
+    "description": "Salário",
+    "amount": 945,
+    "date": "2022-04-07",
+    "type": "income"
+  },
+  {
+    "id": 837,
+    "description": "Entretenimento",
+    "amount": 537,
+    "date": "2022-04-07",
+    "type": "expense"
+  },
+  {
+    "id": 173,
+    "description": "Investimentos",
+    "amount": 656,
+    "date": "2022-04-08",
+    "type": "income"
+  },
+  {
+    "id": 414,
+    "description": "Entretenimento",
+    "amount": 154,
+    "date": "2022-04-10",
+    "type": "expense"
+  },
+  {
+    "id": 441,
+    "description": "Conta telefônica",
+    "amount": 726,
+    "date": "2022-04-10",
+    "type": "expense"
+  },
+  {
+    "id": 628,
+    "description": "Cuidados Pessoais",
+    "amount": 284,
+    "date": "2022-04-10",
+    "type": "expense"
+  },
+  {
+    "id": 268,
+    "description": "Reembolso",
+    "amount": 923,
+    "date": "2022-04-11",
+    "type": "income"
+  },
+  {
+    "id": 917,
+    "description": "Consultoria",
+    "amount": 828,
+    "date": "2022-04-11",
+    "type": "expense"
+  },
+  {
+    "id": 165,
+    "description": "Horas Extras",
+    "amount": 879,
+    "date": "2022-04-14",
+    "type": "income"
+  },
+  {
+    "id": 220,
+    "description": "Restaurante",
+    "amount": 263,
+    "date": "2022-04-14",
+    "type": "expense"
+  },
+  {
+    "id": 63,
+    "description": "Conta telefônica",
+    "amount": 424,
+    "date": "2022-04-15",
+    "type": "expense"
+  },
+  {
+    "id": 354,
+    "description": "Horas Extras",
+    "amount": 273,
+    "date": "2022-04-15",
+    "type": "income"
+  },
+  {
+    "id": 476,
+    "description": "Prêmios",
+    "amount": 540,
+    "date": "2022-04-15",
+    "type": "income"
+  },
+  {
+    "id": 684,
+    "description": "Transporte",
+    "amount": 719,
+    "date": "2022-04-15",
+    "type": "expense"
+  },
+  {
+    "id": 770,
+    "description": "Restaurante",
+    "amount": 717,
+    "date": "2022-04-15",
+    "type": "expense"
+  },
+  {
+    "id": 486,
+    "description": "Entretenimento",
+    "amount": 981,
+    "date": "2022-04-16",
+    "type": "expense"
+  },
+  {
+    "id": 495,
+    "description": "Viagem",
+    "amount": 338,
+    "date": "2022-04-17",
+    "type": "expense"
+  },
+  {
+    "id": 260,
+    "description": "Farmácia",
+    "amount": 331,
+    "date": "2022-04-18",
+    "type": "expense"
+  },
+  {
+    "id": 922,
+    "description": "Outros Gastos",
+    "amount": 179,
+    "date": "2022-04-19",
+    "type": "expense"
+  },
+  {
+    "id": 261,
+    "description": "Prêmios",
+    "amount": 641,
+    "date": "2022-04-20",
+    "type": "income"
+  },
+  {
+    "id": 356,
+    "description": "Bônus",
+    "amount": 59,
+    "date": "2022-04-21",
+    "type": "income"
+  },
+  {
+    "id": 895,
+    "description": "Gasolina",
+    "amount": 347,
+    "date": "2022-04-21",
+    "type": "expense"
+  },
+  {
+    "id": 959,
+    "description": "Luz",
+    "amount": 354,
+    "date": "2022-04-21",
+    "type": "expense"
+  },
+  {
+    "id": 830,
+    "description": "Vestuário",
+    "amount": 952,
+    "date": "2022-04-22",
+    "type": "expense"
+  },
+  {
+    "id": 257,
+    "description": "Salário",
+    "amount": 424,
+    "date": "2022-04-23",
+    "type": "income"
+  },
+  {
+    "id": 877,
+    "description": "Dividendos",
+    "amount": 405,
+    "date": "2022-04-24",
+    "type": "income"
+  },
+  {
+    "id": 678,
+    "description": "Horas Extras",
+    "amount": 995,
+    "date": "2022-04-25",
+    "type": "income"
+  },
+  {
+    "id": 32,
+    "description": "Educação",
+    "amount": 157,
+    "date": "2022-04-26",
+    "type": "expense"
+  },
+  {
+    "id": 784,
+    "description": "Educação",
+    "amount": 807,
+    "date": "2022-04-26",
+    "type": "expense"
+  },
+  {
+    "id": 953,
+    "description": "Manipulados",
+    "amount": 44,
+    "date": "2022-04-26",
+    "type": "expense"
+  },
+  {
+    "id": 598,
+    "description": "Horas Extras",
+    "amount": 113,
+    "date": "2022-04-28",
+    "type": "income"
+  },
+  {
+    "id": 697,
+    "description": "Manipulados",
+    "amount": 767,
+    "date": "2022-04-29",
+    "type": "expense"
+  },
+  {
+    "id": 263,
+    "description": "Dividendos",
+    "amount": 382,
+    "date": "2022-04-30",
+    "type": "income"
+  },
+  {
+    "id": 502,
+    "description": "Renda Extra",
+    "amount": 776,
+    "date": "2022-04-30",
+    "type": "income"
+  },
+  {
+    "id": 143,
+    "description": "Cuidados Pessoais",
+    "amount": 141,
+    "date": "2022-05-01",
+    "type": "expense"
+  },
+  {
+    "id": 839,
+    "description": "Educação",
+    "amount": 156,
+    "date": "2022-05-01",
+    "type": "expense"
+  },
+  {
+    "id": 676,
+    "description": "Vendas",
+    "amount": 789,
+    "date": "2022-05-03",
+    "type": "income"
+  },
+  {
+    "id": 961,
+    "description": "Bônus",
+    "amount": 704,
+    "date": "2022-05-03",
+    "type": "income"
+  },
+  {
+    "id": 31,
+    "description": "Água",
+    "amount": 719,
+    "date": "2022-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 870,
+    "description": "Impostos",
+    "amount": 264,
+    "date": "2022-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 900,
+    "description": "Cuidados Pessoais",
+    "amount": 893,
+    "date": "2022-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 145,
+    "description": "Impostos",
+    "amount": 20,
+    "date": "2022-05-05",
+    "type": "expense"
+  },
+  {
+    "id": 301,
+    "description": "Cinema",
+    "amount": 438,
+    "date": "2022-05-05",
+    "type": "expense"
+  },
+  {
+    "id": 508,
+    "description": "Horas Extras",
+    "amount": 580,
+    "date": "2022-05-06",
+    "type": "income"
+  },
+  {
+    "id": 543,
+    "description": "Aluguel de Imóveis",
+    "amount": 920,
+    "date": "2022-05-06",
+    "type": "income"
+  },
+  {
+    "id": 673,
+    "description": "Cinema",
+    "amount": 960,
+    "date": "2022-05-06",
+    "type": "expense"
+  },
+  {
+    "id": 159,
+    "description": "Aluguel de Imóveis",
+    "amount": 437,
+    "date": "2022-05-07",
+    "type": "income"
+  },
+  {
+    "id": 704,
+    "description": "Outras Receitas",
+    "amount": 207,
+    "date": "2022-05-07",
+    "type": "income"
+  },
+  {
+    "id": 326,
+    "description": "Vendas",
+    "amount": 344,
+    "date": "2022-05-08",
+    "type": "income"
+  },
+  {
+    "id": 478,
+    "description": "Outras Receitas",
+    "amount": 958,
+    "date": "2022-05-10",
+    "type": "income"
+  },
+  {
+    "id": 163,
+    "description": "Prêmios",
+    "amount": 621,
+    "date": "2022-05-11",
+    "type": "income"
+  },
+  {
+    "id": 489,
+    "description": "Academia",
+    "amount": 900,
+    "date": "2022-05-11",
+    "type": "expense"
+  },
+  {
+    "id": 158,
+    "description": "Impostos",
+    "amount": 872,
+    "date": "2022-05-12",
+    "type": "expense"
+  },
+  {
+    "id": 54,
+    "description": "Outras Receitas",
+    "amount": 698,
+    "date": "2022-05-14",
+    "type": "income"
+  },
+  {
+    "id": 350,
+    "description": "Vendas",
+    "amount": 639,
+    "date": "2022-05-17",
+    "type": "income"
+  },
+  {
+    "id": 558,
+    "description": "Dividendos",
+    "amount": 328,
+    "date": "2022-05-17",
+    "type": "income"
+  },
+  {
+    "id": 648,
+    "description": "Manutenção do Lar",
+    "amount": 141,
+    "date": "2022-05-17",
+    "type": "expense"
+  },
+  {
+    "id": 763,
+    "description": "Luz",
+    "amount": 975,
+    "date": "2022-05-17",
+    "type": "expense"
+  },
+  {
+    "id": 231,
+    "description": "Vendas",
+    "amount": 917,
+    "date": "2022-05-18",
+    "type": "income"
+  },
+  {
+    "id": 365,
+    "description": "Outras Receitas",
+    "amount": 610,
+    "date": "2022-05-18",
+    "type": "income"
+  },
+  {
+    "id": 540,
+    "description": "Impostos",
+    "amount": 430,
+    "date": "2022-05-18",
+    "type": "expense"
+  },
+  {
+    "id": 754,
+    "description": "Outras Receitas",
+    "amount": 789,
+    "date": "2022-05-18",
+    "type": "income"
+  },
+  {
+    "id": 224,
+    "description": "Horas Extras",
+    "amount": 549,
+    "date": "2022-05-19",
+    "type": "income"
+  },
+  {
+    "id": 597,
+    "description": "PetShop",
+    "amount": 608,
+    "date": "2022-05-19",
+    "type": "expense"
+  },
+  {
+    "id": 829,
+    "description": "Renda Extra",
+    "amount": 350,
+    "date": "2022-05-19",
+    "type": "income"
+  },
+  {
+    "id": 279,
+    "description": "Reembolso",
+    "amount": 62,
+    "date": "2022-05-20",
+    "type": "income"
+  },
+  {
+    "id": 340,
+    "description": "Outros Gastos",
+    "amount": 861,
+    "date": "2022-05-20",
+    "type": "expense"
+  },
+  {
+    "id": 998,
+    "description": "Bônus",
+    "amount": 581,
+    "date": "2022-05-20",
+    "type": "income"
+  },
+  {
+    "id": 574,
+    "description": "Gasolina",
+    "amount": 139,
+    "date": "2022-05-21",
+    "type": "expense"
+  },
+  {
+    "id": 681,
+    "description": "Horas Extras",
+    "amount": 147,
+    "date": "2022-05-21",
+    "type": "income"
+  },
+  {
+    "id": 665,
+    "description": "Farmácia",
+    "amount": 609,
+    "date": "2022-05-22",
+    "type": "expense"
+  },
+  {
+    "id": 321,
+    "description": "Vestuário",
+    "amount": 198,
+    "date": "2022-05-23",
+    "type": "expense"
+  },
+  {
+    "id": 963,
+    "description": "Entretenimento",
+    "amount": 673,
+    "date": "2022-05-23",
+    "type": "expense"
+  },
+  {
+    "id": 775,
+    "description": "Educação",
+    "amount": 290,
+    "date": "2022-05-24",
+    "type": "expense"
+  },
+  {
+    "id": 302,
+    "description": "Aluguel de Imóveis",
+    "amount": 631,
+    "date": "2022-05-25",
+    "type": "income"
+  },
+  {
+    "id": 327,
+    "description": "Manipulados",
+    "amount": 106,
+    "date": "2022-05-26",
+    "type": "expense"
+  },
+  {
+    "id": 788,
+    "description": "Reembolso",
+    "amount": 946,
+    "date": "2022-05-26",
+    "type": "income"
+  },
+  {
+    "id": 778,
+    "description": "Prêmios",
+    "amount": 650,
+    "date": "2022-05-27",
+    "type": "income"
+  },
+  {
+    "id": 882,
+    "description": "Investimentos",
+    "amount": 609,
+    "date": "2022-05-28",
+    "type": "income"
+  },
+  {
+    "id": 943,
+    "description": "Manutenção do Lar",
+    "amount": 515,
+    "date": "2022-05-28",
+    "type": "expense"
+  },
+  {
+    "id": 728,
+    "description": "Academia",
+    "amount": 188,
+    "date": "2022-05-31",
+    "type": "expense"
+  },
+  {
+    "id": 438,
+    "description": "Outras Receitas",
+    "amount": 812,
+    "date": "2022-06-01",
+    "type": "income"
+  },
+  {
+    "id": 604,
+    "description": "Salário",
+    "amount": 901,
+    "date": "2022-06-01",
+    "type": "income"
+  },
+  {
+    "id": 771,
+    "description": "Aluguel",
+    "amount": 994,
+    "date": "2022-06-01",
+    "type": "expense"
+  },
+  {
+    "id": 57,
+    "description": "Vendas",
+    "amount": 75,
+    "date": "2022-06-02",
+    "type": "income"
+  },
+  {
+    "id": 325,
+    "description": "Impostos",
+    "amount": 75,
+    "date": "2022-06-02",
+    "type": "expense"
+  },
+  {
+    "id": 412,
+    "description": "Outras Receitas",
+    "amount": 330,
+    "date": "2022-06-03",
+    "type": "income"
+  },
+  {
+    "id": 7,
+    "description": "Cuidados Pessoais",
+    "amount": 403,
+    "date": "2022-06-04",
+    "type": "expense"
+  },
+  {
+    "id": 358,
+    "description": "Academia",
+    "amount": 982,
+    "date": "2022-06-04",
+    "type": "expense"
+  },
+  {
+    "id": 757,
+    "description": "Aluguel de Imóveis",
+    "amount": 532,
+    "date": "2022-06-04",
+    "type": "income"
+  },
+  {
+    "id": 888,
+    "description": "Suplementos",
+    "amount": 470,
+    "date": "2022-06-04",
+    "type": "expense"
+  },
+  {
+    "id": 341,
+    "description": "Horas Extras",
+    "amount": 333,
+    "date": "2022-06-05",
+    "type": "income"
+  },
+  {
+    "id": 40,
+    "description": "Academia",
+    "amount": 531,
+    "date": "2022-06-06",
+    "type": "expense"
+  },
+  {
+    "id": 254,
+    "description": "Aluguel de Imóveis",
+    "amount": 662,
+    "date": "2022-06-06",
+    "type": "income"
+  },
+  {
+    "id": 526,
+    "description": "Seguro",
+    "amount": 879,
+    "date": "2022-06-06",
+    "type": "expense"
+  },
+  {
+    "id": 64,
+    "description": "Dividendos",
+    "amount": 446,
+    "date": "2022-06-07",
+    "type": "income"
+  },
+  {
+    "id": 972,
+    "description": "Vendas",
+    "amount": 510,
+    "date": "2022-06-08",
+    "type": "income"
+  },
+  {
+    "id": 906,
+    "description": "Investimentos",
+    "amount": 351,
+    "date": "2022-06-09",
+    "type": "income"
+  },
+  {
+    "id": 416,
+    "description": "Vendas",
+    "amount": 790,
+    "date": "2022-06-11",
+    "type": "income"
+  },
+  {
+    "id": 450,
+    "description": "Cinema",
+    "amount": 228,
+    "date": "2022-06-11",
+    "type": "expense"
+  },
+  {
+    "id": 546,
+    "description": "Prêmios",
+    "amount": 248,
+    "date": "2022-06-11",
+    "type": "income"
+  },
+  {
+    "id": 672,
+    "description": "Entretenimento",
+    "amount": 774,
+    "date": "2022-06-11",
+    "type": "expense"
+  },
+  {
+    "id": 115,
+    "description": "Aluguel",
+    "amount": 422,
+    "date": "2022-06-13",
+    "type": "expense"
+  },
+  {
+    "id": 974,
+    "description": "Impostos",
+    "amount": 926,
+    "date": "2022-06-13",
+    "type": "expense"
+  },
+  {
+    "id": 182,
+    "description": "Horas Extras",
+    "amount": 789,
+    "date": "2022-06-14",
+    "type": "income"
+  },
+  {
+    "id": 370,
+    "description": "Renda Extra",
+    "amount": 723,
+    "date": "2022-06-14",
+    "type": "income"
+  },
+  {
+    "id": 126,
+    "description": "Luz",
+    "amount": 141,
+    "date": "2022-06-16",
+    "type": "expense"
+  },
+  {
+    "id": 723,
+    "description": "Consultoria",
+    "amount": 456,
+    "date": "2022-06-18",
+    "type": "expense"
+  },
+  {
+    "id": 538,
+    "description": "Vendas",
+    "amount": 679,
+    "date": "2022-06-19",
+    "type": "income"
+  },
+  {
+    "id": 74,
+    "description": "Cinema",
+    "amount": 899,
+    "date": "2022-06-21",
+    "type": "expense"
+  },
+  {
+    "id": 123,
+    "description": "Seguro",
+    "amount": 664,
+    "date": "2022-06-21",
+    "type": "expense"
+  },
+  {
+    "id": 166,
+    "description": "Educação",
+    "amount": 540,
+    "date": "2022-06-22",
+    "type": "expense"
+  },
+  {
+    "id": 435,
+    "description": "Salário",
+    "amount": 603,
+    "date": "2022-06-22",
+    "type": "income"
+  },
+  {
+    "id": 570,
+    "description": "Seguro",
+    "amount": 491,
+    "date": "2022-06-22",
+    "type": "expense"
+  },
+  {
+    "id": 154,
+    "description": "Dividendos",
+    "amount": 411,
+    "date": "2022-06-27",
+    "type": "income"
+  },
+  {
+    "id": 18,
+    "description": "Outras Receitas",
+    "amount": 361,
+    "date": "2022-06-28",
+    "type": "income"
+  },
+  {
+    "id": 249,
+    "description": "Manipulados",
+    "amount": 97,
+    "date": "2022-06-29",
+    "type": "expense"
+  },
+  {
+    "id": 978,
+    "description": "Manutenção do Lar",
+    "amount": 987,
+    "date": "2022-06-29",
+    "type": "expense"
+  },
+  {
+    "id": 242,
+    "description": "Bônus",
+    "amount": 938,
+    "date": "2022-07-01",
+    "type": "income"
+  },
+  {
+    "id": 342,
+    "description": "Horas Extras",
+    "amount": 672,
+    "date": "2022-07-01",
+    "type": "income"
+  },
+  {
+    "id": 539,
+    "description": "Outras Receitas",
+    "amount": 569,
+    "date": "2022-07-01",
+    "type": "income"
+  },
+  {
+    "id": 810,
+    "description": "Bônus",
+    "amount": 920,
+    "date": "2022-07-01",
+    "type": "income"
+  },
+  {
+    "id": 319,
+    "description": "Salário",
+    "amount": 646,
+    "date": "2022-07-02",
+    "type": "income"
+  },
+  {
+    "id": 152,
+    "description": "Outras Receitas",
+    "amount": 303,
+    "date": "2022-07-03",
+    "type": "income"
+  },
+  {
+    "id": 156,
+    "description": "Reembolso",
+    "amount": 364,
+    "date": "2022-07-04",
+    "type": "income"
+  },
+  {
+    "id": 618,
+    "description": "Vestuário",
+    "amount": 829,
+    "date": "2022-07-04",
+    "type": "expense"
+  },
+  {
+    "id": 10,
+    "description": "Manipulados",
+    "amount": 222,
+    "date": "2022-07-05",
+    "type": "expense"
+  },
+  {
+    "id": 503,
+    "description": "Aluguel de Imóveis",
+    "amount": 776,
+    "date": "2022-07-06",
+    "type": "income"
+  },
+  {
+    "id": 898,
+    "description": "Bônus",
+    "amount": 800,
+    "date": "2022-07-06",
+    "type": "income"
+  },
+  {
+    "id": 240,
+    "description": "Horas Extras",
+    "amount": 792,
+    "date": "2022-07-07",
+    "type": "income"
+  },
+  {
+    "id": 331,
+    "description": "Dividendos",
+    "amount": 145,
+    "date": "2022-07-07",
+    "type": "income"
+  },
+  {
+    "id": 140,
+    "description": "Aluguel de Imóveis",
+    "amount": 378,
+    "date": "2022-07-09",
+    "type": "income"
+  },
+  {
+    "id": 99,
+    "description": "Reembolso",
+    "amount": 873,
+    "date": "2022-07-10",
+    "type": "income"
+  },
+  {
+    "id": 853,
+    "description": "Prêmios",
+    "amount": 840,
+    "date": "2022-07-11",
+    "type": "income"
+  },
+  {
+    "id": 643,
+    "description": "Manipulados",
+    "amount": 426,
+    "date": "2022-07-13",
+    "type": "expense"
+  },
+  {
+    "id": 142,
+    "description": "Outros Gastos",
+    "amount": 113,
+    "date": "2022-07-15",
+    "type": "expense"
+  },
+  {
+    "id": 827,
+    "description": "Cuidados Pessoais",
+    "amount": 20,
+    "date": "2022-07-15",
+    "type": "expense"
+  },
+  {
+    "id": 593,
+    "description": "Reembolso",
+    "amount": 942,
+    "date": "2022-07-16",
+    "type": "income"
+  },
+  {
+    "id": 663,
+    "description": "Vendas",
+    "amount": 606,
+    "date": "2022-07-16",
+    "type": "income"
+  },
+  {
+    "id": 499,
+    "description": "Educação",
+    "amount": 319,
+    "date": "2022-07-17",
+    "type": "expense"
+  },
+  {
+    "id": 541,
+    "description": "Luz",
+    "amount": 238,
+    "date": "2022-07-18",
+    "type": "expense"
+  },
+  {
+    "id": 819,
+    "description": "Manutenção do Lar",
+    "amount": 304,
+    "date": "2022-07-18",
+    "type": "expense"
+  },
+  {
+    "id": 838,
+    "description": "Restaurante",
+    "amount": 325,
+    "date": "2022-07-19",
+    "type": "expense"
+  },
+  {
+    "id": 993,
+    "description": "Viagem",
+    "amount": 144,
+    "date": "2022-07-19",
+    "type": "expense"
+  },
+  {
+    "id": 424,
+    "description": "Renda Extra",
+    "amount": 211,
+    "date": "2022-07-20",
+    "type": "income"
+  },
+  {
+    "id": 65,
+    "description": "Aluguel",
+    "amount": 595,
+    "date": "2022-07-21",
+    "type": "expense"
+  },
+  {
+    "id": 193,
+    "description": "Salário",
+    "amount": 861,
+    "date": "2022-07-21",
+    "type": "income"
+  },
+  {
+    "id": 215,
+    "description": "Seguro",
+    "amount": 227,
+    "date": "2022-07-21",
+    "type": "expense"
+  },
+  {
+    "id": 460,
+    "description": "Impostos",
+    "amount": 458,
+    "date": "2022-07-21",
+    "type": "expense"
+  },
+  {
+    "id": 190,
+    "description": "Salário",
+    "amount": 502,
+    "date": "2022-07-22",
+    "type": "income"
+  },
+  {
+    "id": 524,
+    "description": "Vendas",
+    "amount": 951,
+    "date": "2022-07-24",
+    "type": "income"
+  },
+  {
+    "id": 656,
+    "description": "Aluguel de Imóveis",
+    "amount": 271,
+    "date": "2022-07-26",
+    "type": "income"
+  },
+  {
+    "id": 883,
+    "description": "Dividendos",
+    "amount": 369,
+    "date": "2022-07-28",
+    "type": "income"
+  },
+  {
+    "id": 200,
+    "description": "Salão",
+    "amount": 778,
+    "date": "2022-07-29",
+    "type": "expense"
+  },
+  {
+    "id": 825,
+    "description": "Bônus",
+    "amount": 649,
+    "date": "2022-07-29",
+    "type": "income"
+  },
+  {
+    "id": 902,
+    "description": "Horas Extras",
+    "amount": 811,
+    "date": "2022-07-29",
+    "type": "income"
+  },
+  {
+    "id": 841,
+    "description": "Outras Receitas",
+    "amount": 151,
+    "date": "2022-07-30",
+    "type": "income"
+  },
+  {
+    "id": 30,
+    "description": "Cuidados Pessoais",
+    "amount": 777,
+    "date": "2022-07-31",
+    "type": "expense"
+  },
+  {
+    "id": 29,
+    "description": "Farmácia",
+    "amount": 241,
+    "date": "2022-08-01",
+    "type": "expense"
+  },
+  {
+    "id": 304,
+    "description": "Aluguel",
+    "amount": 389,
+    "date": "2022-08-01",
+    "type": "expense"
+  },
+  {
+    "id": 178,
+    "description": "Salão",
+    "amount": 726,
+    "date": "2022-08-02",
+    "type": "expense"
+  },
+  {
+    "id": 226,
+    "description": "Transporte",
+    "amount": 736,
+    "date": "2022-08-02",
+    "type": "expense"
+  },
+  {
+    "id": 554,
+    "description": "Investimentos",
+    "amount": 557,
+    "date": "2022-08-03",
+    "type": "income"
+  },
+  {
+    "id": 496,
+    "description": "Bônus",
+    "amount": 882,
+    "date": "2022-08-04",
+    "type": "income"
+  },
+  {
+    "id": 692,
+    "description": "Prêmios",
+    "amount": 41,
+    "date": "2022-08-04",
+    "type": "income"
+  },
+  {
+    "id": 221,
+    "description": "Vestuário",
+    "amount": 699,
+    "date": "2022-08-05",
+    "type": "expense"
+  },
+  {
+    "id": 588,
+    "description": "Outros Gastos",
+    "amount": 531,
+    "date": "2022-08-06",
+    "type": "expense"
+  },
+  {
+    "id": 50,
+    "description": "Prêmios",
+    "amount": 582,
+    "date": "2022-08-09",
+    "type": "income"
+  },
+  {
+    "id": 472,
+    "description": "Presentes",
+    "amount": 391,
+    "date": "2022-08-09",
+    "type": "expense"
+  },
+  {
+    "id": 657,
+    "description": "Transporte",
+    "amount": 773,
+    "date": "2022-08-09",
+    "type": "expense"
+  },
+  {
+    "id": 893,
+    "description": "Renda Extra",
+    "amount": 785,
+    "date": "2022-08-09",
+    "type": "income"
+  },
+  {
+    "id": 45,
+    "description": "Aluguel",
+    "amount": 290,
+    "date": "2022-08-10",
+    "type": "expense"
+  },
+  {
+    "id": 205,
+    "description": "Academia",
+    "amount": 650,
+    "date": "2022-08-10",
+    "type": "expense"
+  },
+  {
+    "id": 228,
+    "description": "Aluguel de Imóveis",
+    "amount": 320,
+    "date": "2022-08-10",
+    "type": "income"
+  },
+  {
+    "id": 111,
+    "description": "Manipulados",
+    "amount": 563,
+    "date": "2022-08-11",
+    "type": "expense"
+  },
+  {
+    "id": 580,
+    "description": "Dividendos",
+    "amount": 266,
+    "date": "2022-08-11",
+    "type": "income"
+  },
+  {
+    "id": 93,
+    "description": "Supermercado",
+    "amount": 846,
+    "date": "2022-08-12",
+    "type": "expense"
+  },
+  {
+    "id": 630,
+    "description": "Luz",
+    "amount": 725,
+    "date": "2022-08-12",
+    "type": "expense"
+  },
+  {
+    "id": 346,
+    "description": "Consultoria",
+    "amount": 103,
+    "date": "2022-08-13",
+    "type": "expense"
+  },
+  {
+    "id": 118,
+    "description": "Cuidados Pessoais",
+    "amount": 360,
+    "date": "2022-08-14",
+    "type": "expense"
+  },
+  {
+    "id": 195,
+    "description": "PetShop",
+    "amount": 62,
+    "date": "2022-08-14",
+    "type": "expense"
+  },
+  {
+    "id": 687,
+    "description": "Outras Receitas",
+    "amount": 346,
+    "date": "2022-08-14",
+    "type": "income"
+  },
+  {
+    "id": 944,
+    "description": "Aluguel de Imóveis",
+    "amount": 191,
+    "date": "2022-08-14",
+    "type": "income"
+  },
+  {
+    "id": 950,
+    "description": "Água",
+    "amount": 386,
+    "date": "2022-08-14",
+    "type": "expense"
+  },
+  {
+    "id": 198,
+    "description": "Cinema",
+    "amount": 373,
+    "date": "2022-08-15",
+    "type": "expense"
+  },
+  {
+    "id": 427,
+    "description": "Dividendos",
+    "amount": 560,
+    "date": "2022-08-16",
+    "type": "income"
+  },
+  {
+    "id": 6,
+    "description": "Reembolso",
+    "amount": 1000,
+    "date": "2022-08-17",
+    "type": "income"
+  },
+  {
+    "id": 332,
+    "description": "Farmácia",
+    "amount": 613,
+    "date": "2022-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 951,
+    "description": "Prêmios",
+    "amount": 982,
+    "date": "2022-08-17",
+    "type": "income"
+  },
+  {
+    "id": 188,
+    "description": "Outros Gastos",
+    "amount": 357,
+    "date": "2022-08-19",
+    "type": "expense"
+  },
+  {
+    "id": 250,
+    "description": "Aluguel de Imóveis",
+    "amount": 296,
+    "date": "2022-08-19",
+    "type": "income"
+  },
+  {
+    "id": 227,
+    "description": "Salário",
+    "amount": 889,
+    "date": "2022-08-20",
+    "type": "income"
+  },
+  {
+    "id": 456,
+    "description": "Cinema",
+    "amount": 18,
+    "date": "2022-08-20",
+    "type": "expense"
+  },
+  {
+    "id": 139,
+    "description": "Aluguel",
+    "amount": 269,
+    "date": "2022-08-21",
+    "type": "expense"
+  },
+  {
+    "id": 577,
+    "description": "Salário",
+    "amount": 952,
+    "date": "2022-08-22",
+    "type": "income"
+  },
+  {
+    "id": 636,
+    "description": "Manutenção do Lar",
+    "amount": 428,
+    "date": "2022-08-23",
+    "type": "expense"
+  },
+  {
+    "id": 747,
+    "description": "Reembolso",
+    "amount": 917,
+    "date": "2022-08-27",
+    "type": "income"
+  },
+  {
+    "id": 462,
+    "description": "Aluguel",
+    "amount": 946,
+    "date": "2022-08-28",
+    "type": "expense"
+  },
+  {
+    "id": 617,
+    "description": "Academia",
+    "amount": 803,
+    "date": "2022-08-28",
+    "type": "expense"
+  },
+  {
+    "id": 328,
+    "description": "Vendas",
+    "amount": 708,
+    "date": "2022-08-29",
+    "type": "income"
+  },
+  {
+    "id": 474,
+    "description": "Aluguel de Imóveis",
+    "amount": 81,
+    "date": "2022-08-29",
+    "type": "income"
+  },
+  {
+    "id": 878,
+    "description": "Entretenimento",
+    "amount": 975,
+    "date": "2022-08-29",
+    "type": "expense"
+  },
+  {
+    "id": 344,
+    "description": "Aluguel de Imóveis",
+    "amount": 634,
+    "date": "2022-08-30",
+    "type": "income"
+  },
+  {
+    "id": 602,
+    "description": "Investimentos",
+    "amount": 75,
+    "date": "2022-09-01",
+    "type": "income"
+  },
+  {
+    "id": 164,
+    "description": "Investimentos",
+    "amount": 59,
+    "date": "2022-09-02",
+    "type": "income"
+  },
+  {
+    "id": 534,
+    "description": "Aluguel de Imóveis",
+    "amount": 935,
+    "date": "2022-09-02",
+    "type": "income"
+  },
+  {
+    "id": 282,
+    "description": "Presentes",
+    "amount": 251,
+    "date": "2022-09-03",
+    "type": "expense"
+  },
+  {
+    "id": 518,
+    "description": "Dividendos",
+    "amount": 253,
+    "date": "2022-09-03",
+    "type": "income"
+  },
+  {
+    "id": 548,
+    "description": "Farmácia",
+    "amount": 226,
+    "date": "2022-09-03",
+    "type": "expense"
+  },
+  {
+    "id": 585,
+    "description": "Reembolso",
+    "amount": 839,
+    "date": "2022-09-03",
+    "type": "income"
+  },
+  {
+    "id": 274,
+    "description": "Renda Extra",
+    "amount": 821,
+    "date": "2022-09-04",
+    "type": "income"
+  },
+  {
+    "id": 404,
+    "description": "Suplementos",
+    "amount": 592,
+    "date": "2022-09-04",
+    "type": "expense"
+  },
+  {
+    "id": 994,
+    "description": "Outros Gastos",
+    "amount": 91,
+    "date": "2022-09-04",
+    "type": "expense"
+  },
+  {
+    "id": 776,
+    "description": "Educação",
+    "amount": 354,
+    "date": "2022-09-06",
+    "type": "expense"
+  },
+  {
+    "id": 345,
+    "description": "Educação",
+    "amount": 310,
+    "date": "2022-09-07",
+    "type": "expense"
+  },
+  {
+    "id": 511,
+    "description": "Educação",
+    "amount": 845,
+    "date": "2022-09-07",
+    "type": "expense"
+  },
+  {
+    "id": 909,
+    "description": "Dividendos",
+    "amount": 373,
+    "date": "2022-09-07",
+    "type": "income"
+  },
+  {
+    "id": 113,
+    "description": "Prêmios",
+    "amount": 792,
+    "date": "2022-09-08",
+    "type": "income"
+  },
+  {
+    "id": 881,
+    "description": "Investimentos",
+    "amount": 464,
+    "date": "2022-09-08",
+    "type": "income"
+  },
+  {
+    "id": 915,
+    "description": "Aluguel de Imóveis",
+    "amount": 267,
+    "date": "2022-09-09",
+    "type": "income"
+  },
+  {
+    "id": 168,
+    "description": "Outras Receitas",
+    "amount": 94,
+    "date": "2022-09-10",
+    "type": "income"
+  },
+  {
+    "id": 417,
+    "description": "Dividendos",
+    "amount": 823,
+    "date": "2022-09-10",
+    "type": "income"
+  },
+  {
+    "id": 919,
+    "description": "Salário",
+    "amount": 262,
+    "date": "2022-09-10",
+    "type": "income"
+  },
+  {
+    "id": 136,
+    "description": "Suplementos",
+    "amount": 353,
+    "date": "2022-09-11",
+    "type": "expense"
+  },
+  {
+    "id": 209,
+    "description": "Dividendos",
+    "amount": 423,
+    "date": "2022-09-11",
+    "type": "income"
+  },
+  {
+    "id": 690,
+    "description": "Vendas",
+    "amount": 448,
+    "date": "2022-09-11",
+    "type": "income"
+  },
+  {
+    "id": 794,
+    "description": "Aluguel de Imóveis",
+    "amount": 496,
+    "date": "2022-09-12",
+    "type": "income"
+  },
+  {
+    "id": 937,
+    "description": "Outras Receitas",
+    "amount": 700,
+    "date": "2022-09-12",
+    "type": "income"
+  },
+  {
+    "id": 616,
+    "description": "Outras Receitas",
+    "amount": 794,
+    "date": "2022-09-13",
+    "type": "income"
+  },
+  {
+    "id": 896,
+    "description": "Outras Receitas",
+    "amount": 787,
+    "date": "2022-09-17",
+    "type": "income"
+  },
+  {
+    "id": 429,
+    "description": "Água",
+    "amount": 58,
+    "date": "2022-09-18",
+    "type": "expense"
+  },
+  {
+    "id": 571,
+    "description": "Aluguel de Imóveis",
+    "amount": 732,
+    "date": "2022-09-18",
+    "type": "income"
+  },
+  {
+    "id": 258,
+    "description": "Viagem",
+    "amount": 430,
+    "date": "2022-09-19",
+    "type": "expense"
+  },
+  {
+    "id": 595,
+    "description": "Transporte",
+    "amount": 410,
+    "date": "2022-09-20",
+    "type": "expense"
+  },
+  {
+    "id": 607,
+    "description": "Salário",
+    "amount": 767,
+    "date": "2022-09-20",
+    "type": "income"
+  },
+  {
+    "id": 923,
+    "description": "Reembolso",
+    "amount": 124,
+    "date": "2022-09-20",
+    "type": "income"
+  },
+  {
+    "id": 222,
+    "description": "PetShop",
+    "amount": 309,
+    "date": "2022-09-21",
+    "type": "expense"
+  },
+  {
+    "id": 823,
+    "description": "Bônus",
+    "amount": 340,
+    "date": "2022-09-21",
+    "type": "income"
+  },
+  {
+    "id": 52,
+    "description": "Salário",
+    "amount": 692,
+    "date": "2022-09-22",
+    "type": "income"
+  },
+  {
+    "id": 904,
+    "description": "Salão",
+    "amount": 960,
+    "date": "2022-09-22",
+    "type": "expense"
+  },
+  {
+    "id": 60,
+    "description": "Viagem",
+    "amount": 843,
+    "date": "2022-09-23",
+    "type": "expense"
+  },
+  {
+    "id": 401,
+    "description": "Investimentos",
+    "amount": 981,
+    "date": "2022-09-25",
+    "type": "income"
+  },
+  {
+    "id": 977,
+    "description": "Dividendos",
+    "amount": 233,
+    "date": "2022-09-25",
+    "type": "income"
+  },
+  {
+    "id": 520,
+    "description": "Salão",
+    "amount": 433,
+    "date": "2022-09-26",
+    "type": "expense"
+  },
+  {
+    "id": 726,
+    "description": "Farmácia",
+    "amount": 765,
+    "date": "2022-09-26",
+    "type": "expense"
+  },
+  {
+    "id": 309,
+    "description": "Aluguel de Imóveis",
+    "amount": 966,
+    "date": "2022-09-27",
+    "type": "income"
+  },
+  {
+    "id": 805,
+    "description": "Outras Receitas",
+    "amount": 824,
+    "date": "2022-09-27",
+    "type": "income"
+  },
+  {
+    "id": 43,
+    "description": "Outras Receitas",
+    "amount": 402,
+    "date": "2022-09-28",
+    "type": "income"
+  },
+  {
+    "id": 622,
+    "description": "Cinema",
+    "amount": 267,
+    "date": "2022-09-29",
+    "type": "expense"
+  },
+  {
+    "id": 334,
+    "description": "Farmácia",
+    "amount": 4,
+    "date": "2022-09-30",
+    "type": "expense"
+  },
+  {
+    "id": 531,
+    "description": "Farmácia",
+    "amount": 561,
+    "date": "2022-09-30",
+    "type": "expense"
+  },
+  {
+    "id": 129,
+    "description": "Cuidados Pessoais",
+    "amount": 165,
+    "date": "2022-10-01",
+    "type": "expense"
+  },
+  {
+    "id": 270,
+    "description": "Bônus",
+    "amount": 410,
+    "date": "2022-10-01",
+    "type": "income"
+  },
+  {
+    "id": 879,
+    "description": "Luz",
+    "amount": 643,
+    "date": "2022-10-01",
+    "type": "expense"
+  },
+  {
+    "id": 133,
+    "description": "PetShop",
+    "amount": 3,
+    "date": "2022-10-02",
+    "type": "expense"
+  },
+  {
+    "id": 153,
+    "description": "Reembolso",
+    "amount": 340,
+    "date": "2022-10-02",
+    "type": "income"
+  },
+  {
+    "id": 606,
+    "description": "Presentes",
+    "amount": 988,
+    "date": "2022-10-02",
+    "type": "expense"
+  },
+  {
+    "id": 49,
+    "description": "Luz",
+    "amount": 32,
+    "date": "2022-10-03",
+    "type": "expense"
+  },
+  {
+    "id": 217,
+    "description": "Renda Extra",
+    "amount": 558,
+    "date": "2022-10-03",
+    "type": "income"
+  },
+  {
+    "id": 641,
+    "description": "Vestuário",
+    "amount": 462,
+    "date": "2022-10-05",
+    "type": "expense"
+  },
+  {
+    "id": 357,
+    "description": "Aluguel de Imóveis",
+    "amount": 19,
+    "date": "2022-10-08",
+    "type": "income"
+  },
+  {
+    "id": 283,
+    "description": "Bônus",
+    "amount": 526,
+    "date": "2022-10-09",
+    "type": "income"
+  },
+  {
+    "id": 379,
+    "description": "Renda Extra",
+    "amount": 353,
+    "date": "2022-10-10",
+    "type": "income"
+  },
+  {
+    "id": 362,
+    "description": "Vendas",
+    "amount": 213,
+    "date": "2022-10-11",
+    "type": "income"
+  },
+  {
+    "id": 167,
+    "description": "Luz",
+    "amount": 156,
+    "date": "2022-10-13",
+    "type": "expense"
+  },
+  {
+    "id": 287,
+    "description": "Farmácia",
+    "amount": 834,
+    "date": "2022-10-13",
+    "type": "expense"
+  },
+  {
+    "id": 551,
+    "description": "Entretenimento",
+    "amount": 172,
+    "date": "2022-10-13",
+    "type": "expense"
+  },
+  {
+    "id": 581,
+    "description": "Prêmios",
+    "amount": 14,
+    "date": "2022-10-13",
+    "type": "income"
+  },
+  {
+    "id": 437,
+    "description": "Gasolina",
+    "amount": 110,
+    "date": "2022-10-14",
+    "type": "expense"
+  },
+  {
+    "id": 765,
+    "description": "Manutenção do Lar",
+    "amount": 989,
+    "date": "2022-10-14",
+    "type": "expense"
+  },
+  {
+    "id": 337,
+    "description": "Investimentos",
+    "amount": 13,
+    "date": "2022-10-15",
+    "type": "income"
+  },
+  {
+    "id": 806,
+    "description": "Aluguel de Imóveis",
+    "amount": 772,
+    "date": "2022-10-15",
+    "type": "income"
+  },
+  {
+    "id": 157,
+    "description": "Investimentos",
+    "amount": 459,
+    "date": "2022-10-16",
+    "type": "income"
+  },
+  {
+    "id": 867,
+    "description": "Cinema",
+    "amount": 668,
+    "date": "2022-10-16",
+    "type": "expense"
+  },
+  {
+    "id": 991,
+    "description": "Cuidados Pessoais",
+    "amount": 361,
+    "date": "2022-10-16",
+    "type": "expense"
+  },
+  {
+    "id": 91,
+    "description": "Outras Receitas",
+    "amount": 966,
+    "date": "2022-10-17",
+    "type": "income"
+  },
+  {
+    "id": 504,
+    "description": "Horas Extras",
+    "amount": 305,
+    "date": "2022-10-17",
+    "type": "income"
+  },
+  {
+    "id": 276,
+    "description": "Outras Receitas",
+    "amount": 791,
+    "date": "2022-10-18",
+    "type": "income"
+  },
+  {
+    "id": 312,
+    "description": "Investimentos",
+    "amount": 560,
+    "date": "2022-10-18",
+    "type": "income"
+  },
+  {
+    "id": 368,
+    "description": "Conta telefônica",
+    "amount": 925,
+    "date": "2022-10-19",
+    "type": "expense"
+  },
+  {
+    "id": 419,
+    "description": "Outras Receitas",
+    "amount": 354,
+    "date": "2022-10-19",
+    "type": "income"
+  },
+  {
+    "id": 733,
+    "description": "Aluguel de Imóveis",
+    "amount": 736,
+    "date": "2022-10-19",
+    "type": "income"
+  },
+  {
+    "id": 845,
+    "description": "Luz",
+    "amount": 983,
+    "date": "2022-10-19",
+    "type": "expense"
+  },
+  {
+    "id": 955,
+    "description": "Água",
+    "amount": 652,
+    "date": "2022-10-19",
+    "type": "expense"
+  },
+  {
+    "id": 119,
+    "description": "Gasolina",
+    "amount": 213,
+    "date": "2022-10-20",
+    "type": "expense"
+  },
+  {
+    "id": 211,
+    "description": "Dividendos",
+    "amount": 328,
+    "date": "2022-10-21",
+    "type": "income"
+  },
+  {
+    "id": 47,
+    "description": "Dividendos",
+    "amount": 289,
+    "date": "2022-10-22",
+    "type": "income"
+  },
+  {
+    "id": 578,
+    "description": "Salário",
+    "amount": 482,
+    "date": "2022-10-22",
+    "type": "income"
+  },
+  {
+    "id": 36,
+    "description": "Bônus",
+    "amount": 913,
+    "date": "2022-10-24",
+    "type": "income"
+  },
+  {
+    "id": 147,
+    "description": "Reembolso",
+    "amount": 740,
+    "date": "2022-10-24",
+    "type": "income"
+  },
+  {
+    "id": 847,
+    "description": "PetShop",
+    "amount": 577,
+    "date": "2022-10-24",
+    "type": "expense"
+  },
+  {
+    "id": 11,
+    "description": "Impostos",
+    "amount": 608,
+    "date": "2022-10-25",
+    "type": "expense"
+  },
+  {
+    "id": 759,
+    "description": "Educação",
+    "amount": 893,
+    "date": "2022-10-25",
+    "type": "expense"
+  },
+  {
+    "id": 826,
+    "description": "Dividendos",
+    "amount": 3,
+    "date": "2022-10-25",
+    "type": "income"
+  },
+  {
+    "id": 100,
+    "description": "Outros Gastos",
+    "amount": 680,
+    "date": "2022-10-27",
+    "type": "expense"
+  },
+  {
+    "id": 372,
+    "description": "Vendas",
+    "amount": 269,
+    "date": "2022-10-27",
+    "type": "income"
+  },
+  {
+    "id": 323,
+    "description": "Consultoria",
+    "amount": 861,
+    "date": "2022-10-28",
+    "type": "expense"
+  },
+  {
+    "id": 177,
+    "description": "Cuidados Pessoais",
+    "amount": 88,
+    "date": "2022-10-30",
+    "type": "expense"
+  },
+  {
+    "id": 626,
+    "description": "Cuidados Pessoais",
+    "amount": 872,
+    "date": "2022-10-30",
+    "type": "expense"
+  },
+  {
+    "id": 497,
+    "description": "Cuidados Pessoais",
+    "amount": 23,
+    "date": "2022-10-31",
+    "type": "expense"
+  },
+  {
+    "id": 553,
+    "description": "Salário",
+    "amount": 867,
+    "date": "2022-10-31",
+    "type": "income"
+  },
+  {
+    "id": 280,
+    "description": "Horas Extras",
+    "amount": 289,
+    "date": "2022-11-01",
+    "type": "income"
+  },
+  {
+    "id": 599,
+    "description": "Gasolina",
+    "amount": 88,
+    "date": "2022-11-01",
+    "type": "expense"
+  },
+  {
+    "id": 389,
+    "description": "Prêmios",
+    "amount": 727,
+    "date": "2022-11-02",
+    "type": "income"
+  },
+  {
+    "id": 390,
+    "description": "Reembolso",
+    "amount": 203,
+    "date": "2022-11-02",
+    "type": "income"
+  },
+  {
+    "id": 213,
+    "description": "Horas Extras",
+    "amount": 127,
+    "date": "2022-11-03",
+    "type": "income"
+  },
+  {
+    "id": 850,
+    "description": "Renda Extra",
+    "amount": 865,
+    "date": "2022-11-03",
+    "type": "income"
+  },
+  {
+    "id": 973,
+    "description": "Água",
+    "amount": 27,
+    "date": "2022-11-03",
+    "type": "expense"
+  },
+  {
+    "id": 465,
+    "description": "Farmácia",
+    "amount": 356,
+    "date": "2022-11-04",
+    "type": "expense"
+  },
+  {
+    "id": 70,
+    "description": "Manipulados",
+    "amount": 164,
+    "date": "2022-11-05",
+    "type": "expense"
+  },
+  {
+    "id": 436,
+    "description": "Prêmios",
+    "amount": 195,
+    "date": "2022-11-06",
+    "type": "income"
+  },
+  {
+    "id": 563,
+    "description": "Farmácia",
+    "amount": 297,
+    "date": "2022-11-08",
+    "type": "expense"
+  },
+  {
+    "id": 714,
+    "description": "Vendas",
+    "amount": 10,
+    "date": "2022-11-08",
+    "type": "income"
+  },
+  {
+    "id": 831,
+    "description": "Bônus",
+    "amount": 39,
+    "date": "2022-11-08",
+    "type": "income"
+  },
+  {
+    "id": 640,
+    "description": "Seguro",
+    "amount": 516,
+    "date": "2022-11-09",
+    "type": "expense"
+  },
+  {
+    "id": 207,
+    "description": "Água",
+    "amount": 81,
+    "date": "2022-11-10",
+    "type": "expense"
+  },
+  {
+    "id": 668,
+    "description": "Entretenimento",
+    "amount": 403,
+    "date": "2022-11-10",
+    "type": "expense"
+  },
+  {
+    "id": 781,
+    "description": "Salário",
+    "amount": 471,
+    "date": "2022-11-10",
+    "type": "income"
+  },
+  {
+    "id": 317,
+    "description": "Vestuário",
+    "amount": 534,
+    "date": "2022-11-11",
+    "type": "expense"
+  },
+  {
+    "id": 455,
+    "description": "Salário",
+    "amount": 956,
+    "date": "2022-11-11",
+    "type": "income"
+  },
+  {
+    "id": 202,
+    "description": "Aluguel de Imóveis",
+    "amount": 100,
+    "date": "2022-11-12",
+    "type": "income"
+  },
+  {
+    "id": 849,
+    "description": "Outros Gastos",
+    "amount": 686,
+    "date": "2022-11-12",
+    "type": "expense"
+  },
+  {
+    "id": 738,
+    "description": "Impostos",
+    "amount": 258,
+    "date": "2022-11-13",
+    "type": "expense"
+  },
+  {
+    "id": 562,
+    "description": "Bônus",
+    "amount": 155,
+    "date": "2022-11-17",
+    "type": "income"
+  },
+  {
+    "id": 719,
+    "description": "Entretenimento",
+    "amount": 749,
+    "date": "2022-11-18",
+    "type": "expense"
+  },
+  {
+    "id": 720,
+    "description": "Aluguel de Imóveis",
+    "amount": 516,
+    "date": "2022-11-20",
+    "type": "income"
+  },
+  {
+    "id": 34,
+    "description": "Presentes",
+    "amount": 193,
+    "date": "2022-11-22",
+    "type": "expense"
+  },
+  {
+    "id": 232,
+    "description": "Transporte",
+    "amount": 104,
+    "date": "2022-11-22",
+    "type": "expense"
+  },
+  {
+    "id": 777,
+    "description": "Prêmios",
+    "amount": 800,
+    "date": "2022-11-22",
+    "type": "income"
+  },
+  {
+    "id": 758,
+    "description": "Supermercado",
+    "amount": 167,
+    "date": "2022-11-23",
+    "type": "expense"
+  },
+  {
+    "id": 774,
+    "description": "Restaurante",
+    "amount": 704,
+    "date": "2022-11-25",
+    "type": "expense"
+  },
+  {
+    "id": 137,
+    "description": "Manutenção do Lar",
+    "amount": 567,
+    "date": "2022-11-27",
+    "type": "expense"
+  },
+  {
+    "id": 702,
+    "description": "Bônus",
+    "amount": 818,
+    "date": "2022-11-27",
+    "type": "income"
+  },
+  {
+    "id": 718,
+    "description": "Bônus",
+    "amount": 332,
+    "date": "2022-11-27",
+    "type": "income"
+  },
+  {
+    "id": 753,
+    "description": "Reembolso",
+    "amount": 948,
+    "date": "2022-11-27",
+    "type": "income"
+  },
+  {
+    "id": 952,
+    "description": "Salário",
+    "amount": 124,
+    "date": "2022-11-27",
+    "type": "income"
+  },
+  {
+    "id": 650,
+    "description": "Outras Receitas",
+    "amount": 80,
+    "date": "2022-11-30",
+    "type": "income"
+  },
+  {
+    "id": 377,
+    "description": "Consultoria",
+    "amount": 734,
+    "date": "2022-12-01",
+    "type": "expense"
+  },
+  {
+    "id": 591,
+    "description": "Reembolso",
+    "amount": 341,
+    "date": "2022-12-01",
+    "type": "income"
+  },
+  {
+    "id": 635,
+    "description": "Supermercado",
+    "amount": 672,
+    "date": "2022-12-02",
+    "type": "expense"
+  },
+  {
+    "id": 864,
+    "description": "Horas Extras",
+    "amount": 843,
+    "date": "2022-12-02",
+    "type": "income"
+  },
+  {
+    "id": 925,
+    "description": "Outros Gastos",
+    "amount": 412,
+    "date": "2022-12-03",
+    "type": "expense"
+  },
+  {
+    "id": 399,
+    "description": "PetShop",
+    "amount": 127,
+    "date": "2022-12-06",
+    "type": "expense"
+  },
+  {
+    "id": 983,
+    "description": "Consultoria",
+    "amount": 696,
+    "date": "2022-12-06",
+    "type": "expense"
+  },
+  {
+    "id": 69,
+    "description": "Investimentos",
+    "amount": 886,
+    "date": "2022-12-07",
+    "type": "income"
+  },
+  {
+    "id": 208,
+    "description": "Salário",
+    "amount": 802,
+    "date": "2022-12-07",
+    "type": "income"
+  },
+  {
+    "id": 316,
+    "description": "Academia",
+    "amount": 491,
+    "date": "2022-12-07",
+    "type": "expense"
+  },
+  {
+    "id": 314,
+    "description": "Presentes",
+    "amount": 811,
+    "date": "2022-12-08",
+    "type": "expense"
+  },
+  {
+    "id": 194,
+    "description": "Dividendos",
+    "amount": 66,
+    "date": "2022-12-09",
+    "type": "income"
+  },
+  {
+    "id": 487,
+    "description": "Reembolso",
+    "amount": 701,
+    "date": "2022-12-10",
+    "type": "income"
+  },
+  {
+    "id": 535,
+    "description": "Prêmios",
+    "amount": 507,
+    "date": "2022-12-11",
+    "type": "income"
+  },
+  {
+    "id": 691,
+    "description": "Renda Extra",
+    "amount": 291,
+    "date": "2022-12-11",
+    "type": "income"
+  },
+  {
+    "id": 491,
+    "description": "Manutenção do Lar",
+    "amount": 179,
+    "date": "2022-12-12",
+    "type": "expense"
+  },
+  {
+    "id": 658,
+    "description": "Outras Receitas",
+    "amount": 752,
+    "date": "2022-12-13",
+    "type": "income"
+  },
+  {
+    "id": 907,
+    "description": "Prêmios",
+    "amount": 287,
+    "date": "2022-12-13",
+    "type": "income"
+  },
+  {
+    "id": 428,
+    "description": "Horas Extras",
+    "amount": 733,
+    "date": "2022-12-14",
+    "type": "income"
+  },
+  {
+    "id": 866,
+    "description": "Academia",
+    "amount": 820,
+    "date": "2022-12-15",
+    "type": "expense"
+  },
+  {
+    "id": 621,
+    "description": "Impostos",
+    "amount": 185,
+    "date": "2022-12-16",
+    "type": "expense"
+  },
+  {
+    "id": 947,
+    "description": "Consultoria",
+    "amount": 473,
+    "date": "2022-12-16",
+    "type": "expense"
+  },
+  {
+    "id": 24,
+    "description": "Dividendos",
+    "amount": 664,
+    "date": "2022-12-17",
+    "type": "income"
+  },
+  {
+    "id": 218,
+    "description": "Manipulados",
+    "amount": 307,
+    "date": "2022-12-17",
+    "type": "expense"
+  },
+  {
+    "id": 223,
+    "description": "Outros Gastos",
+    "amount": 735,
+    "date": "2022-12-17",
+    "type": "expense"
+  },
+  {
+    "id": 116,
+    "description": "Presentes",
+    "amount": 529,
+    "date": "2022-12-18",
+    "type": "expense"
+  },
+  {
+    "id": 706,
+    "description": "Educação",
+    "amount": 814,
+    "date": "2022-12-18",
+    "type": "expense"
+  },
+  {
+    "id": 253,
+    "description": "Reembolso",
+    "amount": 384,
+    "date": "2022-12-19",
+    "type": "income"
+  },
+  {
+    "id": 408,
+    "description": "Impostos",
+    "amount": 543,
+    "date": "2022-12-19",
+    "type": "expense"
+  },
+  {
+    "id": 979,
+    "description": "Dividendos",
+    "amount": 895,
+    "date": "2022-12-19",
+    "type": "income"
+  },
+  {
+    "id": 384,
+    "description": "Vendas",
+    "amount": 296,
+    "date": "2022-12-21",
+    "type": "income"
+  },
+  {
+    "id": 926,
+    "description": "Manipulados",
+    "amount": 959,
+    "date": "2022-12-22",
+    "type": "expense"
+  },
+  {
+    "id": 180,
+    "description": "Cuidados Pessoais",
+    "amount": 388,
+    "date": "2022-12-24",
+    "type": "expense"
+  },
+  {
+    "id": 655,
+    "description": "Luz",
+    "amount": 354,
+    "date": "2022-12-24",
+    "type": "expense"
+  },
+  {
+    "id": 996,
+    "description": "Consultoria",
+    "amount": 299,
+    "date": "2022-12-24",
+    "type": "expense"
+  },
+  {
+    "id": 278,
+    "description": "Viagem",
+    "amount": 206,
+    "date": "2022-12-26",
+    "type": "expense"
+  },
+  {
+    "id": 431,
+    "description": "Horas Extras",
+    "amount": 655,
+    "date": "2022-12-28",
+    "type": "income"
+  },
+  {
+    "id": 19,
+    "description": "Renda Extra",
+    "amount": 97,
+    "date": "2022-12-29",
+    "type": "income"
+  },
+  {
+    "id": 329,
+    "description": "Vestuário",
+    "amount": 311,
+    "date": "2022-12-30",
+    "type": "expense"
+  },
+  {
+    "id": 442,
+    "description": "Aluguel",
+    "amount": 325,
+    "date": "2022-12-30",
+    "type": "expense"
+  },
+  {
+    "id": 225,
+    "description": "Dividendos",
+    "amount": 912,
+    "date": "2022-12-31",
+    "type": "income"
+  },
+  {
+    "id": 308,
+    "description": "Outras Receitas",
+    "amount": 459,
+    "date": "2022-12-31",
+    "type": "income"
+  },
+  {
+    "id": 677,
+    "description": "Bônus",
+    "amount": 200,
+    "date": "2022-12-31",
+    "type": "income"
+  },
+  {
+    "id": 68,
+    "description": "Aluguel",
+    "amount": 165,
+    "date": "2023-01-01",
+    "type": "expense"
+  },
+  {
+    "id": 886,
+    "description": "Gasolina",
+    "amount": 3,
+    "date": "2023-01-02",
+    "type": "expense"
+  },
+  {
+    "id": 960,
+    "description": "Outros Gastos",
+    "amount": 476,
+    "date": "2023-01-03",
+    "type": "expense"
+  },
+  {
+    "id": 485,
+    "description": "Vestuário",
+    "amount": 749,
+    "date": "2023-01-04",
+    "type": "expense"
+  },
+  {
+    "id": 913,
+    "description": "Vendas",
+    "amount": 945,
+    "date": "2023-01-05",
+    "type": "income"
+  },
+  {
+    "id": 637,
+    "description": "Outras Receitas",
+    "amount": 986,
+    "date": "2023-01-06",
+    "type": "income"
+  },
+  {
+    "id": 347,
+    "description": "PetShop",
+    "amount": 267,
+    "date": "2023-01-08",
+    "type": "expense"
+  },
+  {
+    "id": 364,
+    "description": "Aluguel de Imóveis",
+    "amount": 57,
+    "date": "2023-01-08",
+    "type": "income"
+  },
+  {
+    "id": 623,
+    "description": "Vendas",
+    "amount": 930,
+    "date": "2023-01-08",
+    "type": "income"
+  },
+  {
+    "id": 803,
+    "description": "Cuidados Pessoais",
+    "amount": 583,
+    "date": "2023-01-08",
+    "type": "expense"
+  },
+  {
+    "id": 787,
+    "description": "Conta telefônica",
+    "amount": 966,
+    "date": "2023-01-09",
+    "type": "expense"
+  },
+  {
+    "id": 992,
+    "description": "Dividendos",
+    "amount": 890,
+    "date": "2023-01-10",
+    "type": "income"
+  },
+  {
+    "id": 717,
+    "description": "Horas Extras",
+    "amount": 211,
+    "date": "2023-01-11",
+    "type": "income"
+  },
+  {
+    "id": 469,
+    "description": "Suplementos",
+    "amount": 787,
+    "date": "2023-01-13",
+    "type": "expense"
+  },
+  {
+    "id": 903,
+    "description": "Prêmios",
+    "amount": 621,
+    "date": "2023-01-13",
+    "type": "income"
+  },
+  {
+    "id": 910,
+    "description": "Gasolina",
+    "amount": 569,
+    "date": "2023-01-13",
+    "type": "expense"
+  },
+  {
+    "id": 908,
+    "description": "Restaurante",
+    "amount": 881,
+    "date": "2023-01-14",
+    "type": "expense"
+  },
+  {
+    "id": 204,
+    "description": "Farmácia",
+    "amount": 758,
+    "date": "2023-01-15",
+    "type": "expense"
+  },
+  {
+    "id": 86,
+    "description": "Salário",
+    "amount": 221,
+    "date": "2023-01-17",
+    "type": "income"
+  },
+  {
+    "id": 117,
+    "description": "Aluguel de Imóveis",
+    "amount": 788,
+    "date": "2023-01-17",
+    "type": "income"
+  },
+  {
+    "id": 490,
+    "description": "Prêmios",
+    "amount": 213,
+    "date": "2023-01-17",
+    "type": "income"
+  },
+  {
+    "id": 986,
+    "description": "Restaurante",
+    "amount": 719,
+    "date": "2023-01-17",
+    "type": "expense"
+  },
+  {
+    "id": 303,
+    "description": "Aluguel",
+    "amount": 2,
+    "date": "2023-01-18",
+    "type": "expense"
+  },
+  {
+    "id": 748,
+    "description": "Outras Receitas",
+    "amount": 563,
+    "date": "2023-01-19",
+    "type": "income"
+  },
+  {
+    "id": 780,
+    "description": "Prêmios",
+    "amount": 597,
+    "date": "2023-01-19",
+    "type": "income"
+  },
+  {
+    "id": 948,
+    "description": "Aluguel",
+    "amount": 498,
+    "date": "2023-01-19",
+    "type": "expense"
+  },
+  {
+    "id": 348,
+    "description": "Educação",
+    "amount": 337,
+    "date": "2023-01-20",
+    "type": "expense"
+  },
+  {
+    "id": 8,
+    "description": "Aluguel",
+    "amount": 770,
+    "date": "2023-01-22",
+    "type": "expense"
+  },
+  {
+    "id": 811,
+    "description": "Dividendos",
+    "amount": 181,
+    "date": "2023-01-22",
+    "type": "income"
+  },
+  {
+    "id": 939,
+    "description": "Farmácia",
+    "amount": 341,
+    "date": "2023-01-22",
+    "type": "expense"
+  },
+  {
+    "id": 512,
+    "description": "Outros Gastos",
+    "amount": 581,
+    "date": "2023-01-23",
+    "type": "expense"
+  },
+  {
+    "id": 310,
+    "description": "Educação",
+    "amount": 599,
+    "date": "2023-01-24",
+    "type": "expense"
+  },
+  {
+    "id": 125,
+    "description": "Salário",
+    "amount": 323,
+    "date": "2023-01-25",
+    "type": "income"
+  },
+  {
+    "id": 833,
+    "description": "Presentes",
+    "amount": 549,
+    "date": "2023-01-25",
+    "type": "expense"
+  },
+  {
+    "id": 493,
+    "description": "Bônus",
+    "amount": 885,
+    "date": "2023-01-26",
+    "type": "income"
+  },
+  {
+    "id": 300,
+    "description": "Aluguel de Imóveis",
+    "amount": 795,
+    "date": "2023-01-28",
+    "type": "income"
+  },
+  {
+    "id": 393,
+    "description": "Aluguel de Imóveis",
+    "amount": 549,
+    "date": "2023-01-28",
+    "type": "income"
+  },
+  {
+    "id": 501,
+    "description": "Horas Extras",
+    "amount": 576,
+    "date": "2023-01-28",
+    "type": "income"
+  },
+  {
+    "id": 975,
+    "description": "Viagem",
+    "amount": 834,
+    "date": "2023-01-28",
+    "type": "expense"
+  },
+  {
+    "id": 78,
+    "description": "Consultoria",
+    "amount": 462,
+    "date": "2023-01-29",
+    "type": "expense"
+  },
+  {
+    "id": 807,
+    "description": "Educação",
+    "amount": 237,
+    "date": "2023-01-29",
+    "type": "expense"
+  },
+  {
+    "id": 361,
+    "description": "Água",
+    "amount": 120,
+    "date": "2023-01-30",
+    "type": "expense"
+  },
+  {
+    "id": 701,
+    "description": "Farmácia",
+    "amount": 608,
+    "date": "2023-01-30",
+    "type": "expense"
+  },
+  {
+    "id": 55,
+    "description": "Água",
+    "amount": 785,
+    "date": "2023-01-31",
+    "type": "expense"
+  },
+  {
+    "id": 768,
+    "description": "Entretenimento",
+    "amount": 410,
+    "date": "2023-01-31",
+    "type": "expense"
+  },
+  {
+    "id": 818,
+    "description": "Outros Gastos",
+    "amount": 708,
+    "date": "2023-02-02",
+    "type": "expense"
+  },
+  {
+    "id": 103,
+    "description": "PetShop",
+    "amount": 34,
+    "date": "2023-02-03",
+    "type": "expense"
+  },
+  {
+    "id": 742,
+    "description": "Reembolso",
+    "amount": 942,
+    "date": "2023-02-03",
+    "type": "income"
+  },
+  {
+    "id": 230,
+    "description": "Supermercado",
+    "amount": 746,
+    "date": "2023-02-04",
+    "type": "expense"
+  },
+  {
+    "id": 705,
+    "description": "Vestuário",
+    "amount": 876,
+    "date": "2023-02-04",
+    "type": "expense"
+  },
+  {
+    "id": 351,
+    "description": "Suplementos",
+    "amount": 430,
+    "date": "2023-02-05",
+    "type": "expense"
+  },
+  {
+    "id": 432,
+    "description": "Horas Extras",
+    "amount": 1,
+    "date": "2023-02-06",
+    "type": "income"
+  },
+  {
+    "id": 454,
+    "description": "Dividendos",
+    "amount": 496,
+    "date": "2023-02-06",
+    "type": "income"
+  },
+  {
+    "id": 964,
+    "description": "Investimentos",
+    "amount": 499,
+    "date": "2023-02-07",
+    "type": "income"
+  },
+  {
+    "id": 981,
+    "description": "Manipulados",
+    "amount": 210,
+    "date": "2023-02-07",
+    "type": "expense"
+  },
+  {
+    "id": 509,
+    "description": "Manutenção do Lar",
+    "amount": 784,
+    "date": "2023-02-08",
+    "type": "expense"
+  },
+  {
+    "id": 750,
+    "description": "PetShop",
+    "amount": 979,
+    "date": "2023-02-08",
+    "type": "expense"
+  },
+  {
+    "id": 105,
+    "description": "Renda Extra",
+    "amount": 276,
+    "date": "2023-02-10",
+    "type": "income"
+  },
+  {
+    "id": 561,
+    "description": "Água",
+    "amount": 687,
+    "date": "2023-02-10",
+    "type": "expense"
+  },
+  {
+    "id": 710,
+    "description": "Aluguel",
+    "amount": 474,
+    "date": "2023-02-10",
+    "type": "expense"
+  },
+  {
+    "id": 349,
+    "description": "Manipulados",
+    "amount": 547,
+    "date": "2023-02-11",
+    "type": "expense"
+  },
+  {
+    "id": 544,
+    "description": "Consultoria",
+    "amount": 713,
+    "date": "2023-02-14",
+    "type": "expense"
+  },
+  {
+    "id": 832,
+    "description": "Consultoria",
+    "amount": 44,
+    "date": "2023-02-14",
+    "type": "expense"
+  },
+  {
+    "id": 25,
+    "description": "Vestuário",
+    "amount": 943,
+    "date": "2023-02-15",
+    "type": "expense"
+  },
+  {
+    "id": 61,
+    "description": "Horas Extras",
+    "amount": 505,
+    "date": "2023-02-15",
+    "type": "income"
+  },
+  {
+    "id": 149,
+    "description": "Vendas",
+    "amount": 502,
+    "date": "2023-02-16",
+    "type": "income"
+  },
+  {
+    "id": 307,
+    "description": "Dividendos",
+    "amount": 928,
+    "date": "2023-02-17",
+    "type": "income"
+  },
+  {
+    "id": 434,
+    "description": "Dividendos",
+    "amount": 972,
+    "date": "2023-02-18",
+    "type": "income"
+  },
+  {
+    "id": 264,
+    "description": "Outras Receitas",
+    "amount": 246,
+    "date": "2023-02-19",
+    "type": "income"
+  },
+  {
+    "id": 914,
+    "description": "Investimentos",
+    "amount": 3,
+    "date": "2023-02-19",
+    "type": "income"
+  },
+  {
+    "id": 420,
+    "description": "Luz",
+    "amount": 540,
+    "date": "2023-02-20",
+    "type": "expense"
+  },
+  {
+    "id": 189,
+    "description": "Vendas",
+    "amount": 269,
+    "date": "2023-02-22",
+    "type": "income"
+  },
+  {
+    "id": 669,
+    "description": "PetShop",
+    "amount": 685,
+    "date": "2023-02-22",
+    "type": "expense"
+  },
+  {
+    "id": 670,
+    "description": "Manipulados",
+    "amount": 656,
+    "date": "2023-02-22",
+    "type": "expense"
+  },
+  {
+    "id": 844,
+    "description": "Conta telefônica",
+    "amount": 251,
+    "date": "2023-02-22",
+    "type": "expense"
+  },
+  {
+    "id": 872,
+    "description": "Suplementos",
+    "amount": 120,
+    "date": "2023-02-22",
+    "type": "expense"
+  },
+  {
+    "id": 990,
+    "description": "Água",
+    "amount": 841,
+    "date": "2023-02-22",
+    "type": "expense"
+  },
+  {
+    "id": 494,
+    "description": "Vendas",
+    "amount": 202,
+    "date": "2023-02-24",
+    "type": "income"
+  },
+  {
+    "id": 82,
+    "description": "Seguro",
+    "amount": 720,
+    "date": "2023-02-25",
+    "type": "expense"
+  },
+  {
+    "id": 360,
+    "description": "Educação",
+    "amount": 414,
+    "date": "2023-02-26",
+    "type": "expense"
+  },
+  {
+    "id": 477,
+    "description": "Horas Extras",
+    "amount": 127,
+    "date": "2023-02-26",
+    "type": "income"
+  },
+  {
+    "id": 576,
+    "description": "Reembolso",
+    "amount": 121,
+    "date": "2023-02-27",
+    "type": "income"
+  },
+  {
+    "id": 212,
+    "description": "Impostos",
+    "amount": 842,
+    "date": "2023-03-05",
+    "type": "expense"
+  },
+  {
+    "id": 239,
+    "description": "Vendas",
+    "amount": 164,
+    "date": "2023-03-05",
+    "type": "income"
+  },
+  {
+    "id": 343,
+    "description": "Aluguel de Imóveis",
+    "amount": 756,
+    "date": "2023-03-05",
+    "type": "income"
+  },
+  {
+    "id": 624,
+    "description": "PetShop",
+    "amount": 572,
+    "date": "2023-03-07",
+    "type": "expense"
+  },
+  {
+    "id": 247,
+    "description": "Aluguel de Imóveis",
+    "amount": 3,
+    "date": "2023-03-08",
+    "type": "income"
+  },
+  {
+    "id": 363,
+    "description": "Bônus",
+    "amount": 661,
+    "date": "2023-03-08",
+    "type": "income"
+  },
+  {
+    "id": 661,
+    "description": "Luz",
+    "amount": 995,
+    "date": "2023-03-10",
+    "type": "expense"
+  },
+  {
+    "id": 756,
+    "description": "Dividendos",
+    "amount": 473,
+    "date": "2023-03-12",
+    "type": "income"
+  },
+  {
+    "id": 23,
+    "description": "Renda Extra",
+    "amount": 214,
+    "date": "2023-03-14",
+    "type": "income"
+  },
+  {
+    "id": 20,
+    "description": "Dividendos",
+    "amount": 655,
+    "date": "2023-03-15",
+    "type": "income"
+  },
+  {
+    "id": 289,
+    "description": "Bônus",
+    "amount": 641,
+    "date": "2023-03-15",
+    "type": "income"
+  },
+  {
+    "id": 366,
+    "description": "Aluguel de Imóveis",
+    "amount": 144,
+    "date": "2023-03-15",
+    "type": "income"
+  },
+  {
+    "id": 755,
+    "description": "Salário",
+    "amount": 909,
+    "date": "2023-03-15",
+    "type": "income"
+  },
+  {
+    "id": 769,
+    "description": "Presentes",
+    "amount": 79,
+    "date": "2023-03-15",
+    "type": "expense"
+  },
+  {
+    "id": 587,
+    "description": "PetShop",
+    "amount": 43,
+    "date": "2023-03-16",
+    "type": "expense"
+  },
+  {
+    "id": 695,
+    "description": "Manutenção do Lar",
+    "amount": 134,
+    "date": "2023-03-17",
+    "type": "expense"
+  },
+  {
+    "id": 124,
+    "description": "Vendas",
+    "amount": 930,
+    "date": "2023-03-18",
+    "type": "income"
+  },
+  {
+    "id": 682,
+    "description": "Luz",
+    "amount": 829,
+    "date": "2023-03-18",
+    "type": "expense"
+  },
+  {
+    "id": 921,
+    "description": "Aluguel de Imóveis",
+    "amount": 283,
+    "date": "2023-03-18",
+    "type": "income"
+  },
+  {
+    "id": 735,
+    "description": "Outras Receitas",
+    "amount": 20,
+    "date": "2023-03-19",
+    "type": "income"
+  },
+  {
+    "id": 148,
+    "description": "Vendas",
+    "amount": 838,
+    "date": "2023-03-20",
+    "type": "income"
+  },
+  {
+    "id": 79,
+    "description": "Renda Extra",
+    "amount": 108,
+    "date": "2023-03-21",
+    "type": "income"
+  },
+  {
+    "id": 834,
+    "description": "Horas Extras",
+    "amount": 761,
+    "date": "2023-03-21",
+    "type": "income"
+  },
+  {
+    "id": 285,
+    "description": "Educação",
+    "amount": 916,
+    "date": "2023-03-23",
+    "type": "expense"
+  },
+  {
+    "id": 333,
+    "description": "Viagem",
+    "amount": 862,
+    "date": "2023-03-23",
+    "type": "expense"
+  },
+  {
+    "id": 367,
+    "description": "Farmácia",
+    "amount": 145,
+    "date": "2023-03-23",
+    "type": "expense"
+  },
+  {
+    "id": 995,
+    "description": "Impostos",
+    "amount": 205,
+    "date": "2023-03-23",
+    "type": "expense"
+  },
+  {
+    "id": 73,
+    "description": "Investimentos",
+    "amount": 249,
+    "date": "2023-03-24",
+    "type": "income"
+  },
+  {
+    "id": 547,
+    "description": "PetShop",
+    "amount": 49,
+    "date": "2023-03-24",
+    "type": "expense"
+  },
+  {
+    "id": 191,
+    "description": "Impostos",
+    "amount": 387,
+    "date": "2023-03-25",
+    "type": "expense"
+  },
+  {
+    "id": 259,
+    "description": "Reembolso",
+    "amount": 642,
+    "date": "2023-03-27",
+    "type": "income"
+  },
+  {
+    "id": 281,
+    "description": "Renda Extra",
+    "amount": 789,
+    "date": "2023-03-28",
+    "type": "income"
+  },
+  {
+    "id": 410,
+    "description": "Vendas",
+    "amount": 200,
+    "date": "2023-03-29",
+    "type": "income"
+  },
+  {
+    "id": 761,
+    "description": "Cinema",
+    "amount": 970,
+    "date": "2023-03-30",
+    "type": "expense"
+  },
+  {
+    "id": 84,
+    "description": "Manipulados",
+    "amount": 901,
+    "date": "2023-03-31",
+    "type": "expense"
+  },
+  {
+    "id": 277,
+    "description": "Dividendos",
+    "amount": 745,
+    "date": "2023-03-31",
+    "type": "income"
+  },
+  {
+    "id": 529,
+    "description": "Aluguel de Imóveis",
+    "amount": 605,
+    "date": "2023-04-01",
+    "type": "income"
+  },
+  {
+    "id": 965,
+    "description": "Conta telefônica",
+    "amount": 569,
+    "date": "2023-04-01",
+    "type": "expense"
+  },
+  {
+    "id": 179,
+    "description": "Farmácia",
+    "amount": 513,
+    "date": "2023-04-02",
+    "type": "expense"
+  },
+  {
+    "id": 798,
+    "description": "Prêmios",
+    "amount": 961,
+    "date": "2023-04-02",
+    "type": "income"
+  },
+  {
+    "id": 378,
+    "description": "Suplementos",
+    "amount": 376,
+    "date": "2023-04-04",
+    "type": "expense"
+  },
+  {
+    "id": 160,
+    "description": "Cinema",
+    "amount": 196,
+    "date": "2023-04-05",
+    "type": "expense"
+  },
+  {
+    "id": 14,
+    "description": "Outras Receitas",
+    "amount": 601,
+    "date": "2023-04-07",
+    "type": "income"
+  },
+  {
+    "id": 252,
+    "description": "Restaurante",
+    "amount": 157,
+    "date": "2023-04-08",
+    "type": "expense"
+  },
+  {
+    "id": 505,
+    "description": "Aluguel de Imóveis",
+    "amount": 646,
+    "date": "2023-04-08",
+    "type": "income"
+  },
+  {
+    "id": 144,
+    "description": "Vendas",
+    "amount": 169,
+    "date": "2023-04-09",
+    "type": "income"
+  },
+  {
+    "id": 292,
+    "description": "Dividendos",
+    "amount": 18,
+    "date": "2023-04-10",
+    "type": "income"
+  },
+  {
+    "id": 858,
+    "description": "Água",
+    "amount": 202,
+    "date": "2023-04-10",
+    "type": "expense"
+  },
+  {
+    "id": 181,
+    "description": "Reembolso",
+    "amount": 966,
+    "date": "2023-04-11",
+    "type": "income"
+  },
+  {
+    "id": 840,
+    "description": "Manipulados",
+    "amount": 846,
+    "date": "2023-04-11",
+    "type": "expense"
+  },
+  {
+    "id": 971,
+    "description": "Dividendos",
+    "amount": 721,
+    "date": "2023-04-11",
+    "type": "income"
+  },
+  {
+    "id": 739,
+    "description": "Viagem",
+    "amount": 71,
+    "date": "2023-04-12",
+    "type": "expense"
+  },
+  {
+    "id": 286,
+    "description": "Reembolso",
+    "amount": 42,
+    "date": "2023-04-13",
+    "type": "income"
+  },
+  {
+    "id": 559,
+    "description": "Academia",
+    "amount": 702,
+    "date": "2023-04-14",
+    "type": "expense"
+  },
+  {
+    "id": 987,
+    "description": "Farmácia",
+    "amount": 560,
+    "date": "2023-04-14",
+    "type": "expense"
+  },
+  {
+    "id": 1000,
+    "description": "Vendas",
+    "amount": 151,
+    "date": "2023-04-15",
+    "type": "income"
+  },
+  {
+    "id": 96,
+    "description": "Luz",
+    "amount": 373,
+    "date": "2023-04-16",
+    "type": "expense"
+  },
+  {
+    "id": 131,
+    "description": "Salão",
+    "amount": 712,
+    "date": "2023-04-16",
+    "type": "expense"
+  },
+  {
+    "id": 394,
+    "description": "Prêmios",
+    "amount": 4,
+    "date": "2023-04-16",
+    "type": "income"
+  },
+  {
+    "id": 596,
+    "description": "Outras Receitas",
+    "amount": 160,
+    "date": "2023-04-17",
+    "type": "income"
+  },
+  {
+    "id": 58,
+    "description": "Manutenção do Lar",
+    "amount": 334,
+    "date": "2023-04-18",
+    "type": "expense"
+  },
+  {
+    "id": 388,
+    "description": "Aluguel de Imóveis",
+    "amount": 33,
+    "date": "2023-04-18",
+    "type": "income"
+  },
+  {
+    "id": 569,
+    "description": "Dividendos",
+    "amount": 183,
+    "date": "2023-04-18",
+    "type": "income"
+  },
+  {
+    "id": 954,
+    "description": "Bônus",
+    "amount": 40,
+    "date": "2023-04-19",
+    "type": "income"
+  },
+  {
+    "id": 114,
+    "description": "Investimentos",
+    "amount": 326,
+    "date": "2023-04-21",
+    "type": "income"
+  },
+  {
+    "id": 440,
+    "description": "Farmácia",
+    "amount": 849,
+    "date": "2023-04-21",
+    "type": "expense"
+  },
+  {
+    "id": 791,
+    "description": "Transporte",
+    "amount": 368,
+    "date": "2023-04-21",
+    "type": "expense"
+  },
+  {
+    "id": 229,
+    "description": "Renda Extra",
+    "amount": 582,
+    "date": "2023-04-22",
+    "type": "income"
+  },
+  {
+    "id": 942,
+    "description": "Dividendos",
+    "amount": 5,
+    "date": "2023-04-22",
+    "type": "income"
+  },
+  {
+    "id": 782,
+    "description": "Outros Gastos",
+    "amount": 751,
+    "date": "2023-04-23",
+    "type": "expense"
+  },
+  {
+    "id": 513,
+    "description": "Restaurante",
+    "amount": 697,
+    "date": "2023-04-24",
+    "type": "expense"
+  },
+  {
+    "id": 583,
+    "description": "PetShop",
+    "amount": 342,
+    "date": "2023-04-24",
+    "type": "expense"
+  },
+  {
+    "id": 797,
+    "description": "Luz",
+    "amount": 43,
+    "date": "2023-04-25",
+    "type": "expense"
+  },
+  {
+    "id": 642,
+    "description": "Aluguel",
+    "amount": 418,
+    "date": "2023-04-26",
+    "type": "expense"
+  },
+  {
+    "id": 121,
+    "description": "Cuidados Pessoais",
+    "amount": 555,
+    "date": "2023-04-27",
+    "type": "expense"
+  },
+  {
+    "id": 237,
+    "description": "Manutenção do Lar",
+    "amount": 43,
+    "date": "2023-04-28",
+    "type": "expense"
+  },
+  {
+    "id": 843,
+    "description": "Entretenimento",
+    "amount": 298,
+    "date": "2023-04-28",
+    "type": "expense"
+  },
+  {
+    "id": 528,
+    "description": "Aluguel de Imóveis",
+    "amount": 147,
+    "date": "2023-04-29",
+    "type": "income"
+  },
+  {
+    "id": 880,
+    "description": "Investimentos",
+    "amount": 265,
+    "date": "2023-04-29",
+    "type": "income"
+  },
+  {
+    "id": 530,
+    "description": "Dividendos",
+    "amount": 618,
+    "date": "2023-05-01",
+    "type": "income"
+  },
+  {
+    "id": 634,
+    "description": "Entretenimento",
+    "amount": 349,
+    "date": "2023-05-02",
+    "type": "expense"
+  },
+  {
+    "id": 275,
+    "description": "Água",
+    "amount": 103,
+    "date": "2023-05-03",
+    "type": "expense"
+  },
+  {
+    "id": 789,
+    "description": "Investimentos",
+    "amount": 332,
+    "date": "2023-05-03",
+    "type": "income"
+  },
+  {
+    "id": 2,
+    "description": "PetShop",
+    "amount": 647,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 26,
+    "description": "Luz",
+    "amount": 286,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 77,
+    "description": "Consultoria",
+    "amount": 632,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 171,
+    "description": "Renda Extra",
+    "amount": 48,
+    "date": "2023-05-04",
+    "type": "income"
+  },
+  {
+    "id": 375,
+    "description": "Cinema",
+    "amount": 35,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 397,
+    "description": "Supermercado",
+    "amount": 31,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 945,
+    "description": "Salão",
+    "amount": 550,
+    "date": "2023-05-04",
+    "type": "expense"
+  },
+  {
+    "id": 415,
+    "description": "Prêmios",
+    "amount": 257,
+    "date": "2023-05-05",
+    "type": "income"
+  },
+  {
+    "id": 515,
+    "description": "Consultoria",
+    "amount": 109,
+    "date": "2023-05-07",
+    "type": "expense"
+  },
+  {
+    "id": 533,
+    "description": "Vendas",
+    "amount": 960,
+    "date": "2023-05-07",
+    "type": "income"
+  },
+  {
+    "id": 835,
+    "description": "Prêmios",
+    "amount": 988,
+    "date": "2023-05-08",
+    "type": "income"
+  },
+  {
+    "id": 88,
+    "description": "PetShop",
+    "amount": 670,
+    "date": "2023-05-10",
+    "type": "expense"
+  },
+  {
+    "id": 790,
+    "description": "Vendas",
+    "amount": 898,
+    "date": "2023-05-10",
+    "type": "income"
+  },
+  {
+    "id": 53,
+    "description": "Dividendos",
+    "amount": 545,
+    "date": "2023-05-11",
+    "type": "income"
+  },
+  {
+    "id": 324,
+    "description": "Outros Gastos",
+    "amount": 512,
+    "date": "2023-05-11",
+    "type": "expense"
+  },
+  {
+    "id": 550,
+    "description": "Bônus",
+    "amount": 112,
+    "date": "2023-05-11",
+    "type": "income"
+  },
+  {
+    "id": 708,
+    "description": "Investimentos",
+    "amount": 587,
+    "date": "2023-05-11",
+    "type": "income"
+  },
+  {
+    "id": 729,
+    "description": "Aluguel de Imóveis",
+    "amount": 912,
+    "date": "2023-05-11",
+    "type": "income"
+  },
+  {
+    "id": 396,
+    "description": "Dividendos",
+    "amount": 872,
+    "date": "2023-05-12",
+    "type": "income"
+  },
+  {
+    "id": 709,
+    "description": "Aluguel de Imóveis",
+    "amount": 794,
+    "date": "2023-05-13",
+    "type": "income"
+  },
+  {
+    "id": 15,
+    "description": "Supermercado",
+    "amount": 120,
+    "date": "2023-05-14",
+    "type": "expense"
+  },
+  {
+    "id": 693,
+    "description": "Manutenção do Lar",
+    "amount": 591,
+    "date": "2023-05-14",
+    "type": "expense"
+  },
+  {
+    "id": 76,
+    "description": "Supermercado",
+    "amount": 149,
+    "date": "2023-05-15",
+    "type": "expense"
+  },
+  {
+    "id": 256,
+    "description": "Bônus",
+    "amount": 286,
+    "date": "2023-05-18",
+    "type": "income"
+  },
+  {
+    "id": 536,
+    "description": "Restaurante",
+    "amount": 36,
+    "date": "2023-05-18",
+    "type": "expense"
+  },
+  {
+    "id": 3,
+    "description": "Supermercado",
+    "amount": 323,
+    "date": "2023-05-21",
+    "type": "expense"
+  },
+  {
+    "id": 262,
+    "description": "Horas Extras",
+    "amount": 293,
+    "date": "2023-05-21",
+    "type": "income"
+  },
+  {
+    "id": 320,
+    "description": "Dividendos",
+    "amount": 950,
+    "date": "2023-05-21",
+    "type": "income"
+  },
+  {
+    "id": 104,
+    "description": "Salário",
+    "amount": 816,
+    "date": "2023-05-23",
+    "type": "income"
+  },
+  {
+    "id": 380,
+    "description": "Bônus",
+    "amount": 151,
+    "date": "2023-05-24",
+    "type": "income"
+  },
+  {
+    "id": 659,
+    "description": "Bônus",
+    "amount": 200,
+    "date": "2023-05-24",
+    "type": "income"
+  },
+  {
+    "id": 892,
+    "description": "Manutenção do Lar",
+    "amount": 595,
+    "date": "2023-05-24",
+    "type": "expense"
+  },
+  {
+    "id": 852,
+    "description": "Salário",
+    "amount": 523,
+    "date": "2023-05-30",
+    "type": "income"
+  },
+  {
+    "id": 498,
+    "description": "Aluguel de Imóveis",
+    "amount": 325,
+    "date": "2023-06-01",
+    "type": "income"
+  },
+  {
+    "id": 609,
+    "description": "Bônus",
+    "amount": 38,
+    "date": "2023-06-01",
+    "type": "income"
+  },
+  {
+    "id": 686,
+    "description": "Investimentos",
+    "amount": 823,
+    "date": "2023-06-01",
+    "type": "income"
+  },
+  {
+    "id": 901,
+    "description": "Cuidados Pessoais",
+    "amount": 493,
+    "date": "2023-06-01",
+    "type": "expense"
+  },
+  {
+    "id": 369,
+    "description": "Salário",
+    "amount": 503,
+    "date": "2023-06-03",
+    "type": "income"
+  },
+  {
+    "id": 555,
+    "description": "Manutenção do Lar",
+    "amount": 91,
+    "date": "2023-06-06",
+    "type": "expense"
+  },
+  {
+    "id": 517,
+    "description": "Investimentos",
+    "amount": 627,
+    "date": "2023-06-07",
+    "type": "income"
+  },
+  {
+    "id": 689,
+    "description": "Gasolina",
+    "amount": 712,
+    "date": "2023-06-07",
+    "type": "expense"
+  },
+  {
+    "id": 890,
+    "description": "Horas Extras",
+    "amount": 940,
+    "date": "2023-06-07",
+    "type": "income"
+  },
+  {
+    "id": 941,
+    "description": "Reembolso",
+    "amount": 682,
+    "date": "2023-06-07",
+    "type": "income"
+  },
+  {
+    "id": 411,
+    "description": "Cinema",
+    "amount": 125,
+    "date": "2023-06-08",
+    "type": "expense"
+  },
+  {
+    "id": 214,
+    "description": "Prêmios",
+    "amount": 774,
+    "date": "2023-06-10",
+    "type": "income"
+  },
+  {
+    "id": 470,
+    "description": "Salário",
+    "amount": 606,
+    "date": "2023-06-10",
+    "type": "income"
+  },
+  {
+    "id": 699,
+    "description": "Água",
+    "amount": 880,
+    "date": "2023-06-10",
+    "type": "expense"
+  },
+  {
+    "id": 338,
+    "description": "Vendas",
+    "amount": 708,
+    "date": "2023-06-11",
+    "type": "income"
+  },
+  {
+    "id": 210,
+    "description": "Água",
+    "amount": 365,
+    "date": "2023-06-12",
+    "type": "expense"
+  },
+  {
+    "id": 269,
+    "description": "Vendas",
+    "amount": 197,
+    "date": "2023-06-12",
+    "type": "income"
+  },
+  {
+    "id": 284,
+    "description": "Supermercado",
+    "amount": 169,
+    "date": "2023-06-14",
+    "type": "expense"
+  },
+  {
+    "id": 339,
+    "description": "Dividendos",
+    "amount": 796,
+    "date": "2023-06-14",
+    "type": "income"
+  },
+  {
+    "id": 746,
+    "description": "Restaurante",
+    "amount": 628,
+    "date": "2023-06-14",
+    "type": "expense"
+  },
+  {
+    "id": 812,
+    "description": "Vendas",
+    "amount": 438,
+    "date": "2023-06-14",
+    "type": "income"
+  },
+  {
+    "id": 741,
+    "description": "Impostos",
+    "amount": 327,
+    "date": "2023-06-15",
+    "type": "expense"
+  },
+  {
+    "id": 134,
+    "description": "Consultoria",
+    "amount": 37,
+    "date": "2023-06-16",
+    "type": "expense"
+  },
+  {
+    "id": 645,
+    "description": "Aluguel de Imóveis",
+    "amount": 852,
+    "date": "2023-06-16",
+    "type": "income"
+  },
+  {
+    "id": 869,
+    "description": "Prêmios",
+    "amount": 397,
+    "date": "2023-06-16",
+    "type": "income"
+  },
+  {
+    "id": 71,
+    "description": "Outros Gastos",
+    "amount": 852,
+    "date": "2023-06-17",
+    "type": "expense"
+  },
+  {
+    "id": 590,
+    "description": "Horas Extras",
+    "amount": 429,
+    "date": "2023-06-21",
+    "type": "income"
+  },
+  {
+    "id": 743,
+    "description": "Outras Receitas",
+    "amount": 718,
+    "date": "2023-06-23",
+    "type": "income"
+  },
+  {
+    "id": 376,
+    "description": "Outros Gastos",
+    "amount": 245,
+    "date": "2023-06-24",
+    "type": "expense"
+  },
+  {
+    "id": 933,
+    "description": "Reembolso",
+    "amount": 629,
+    "date": "2023-06-24",
+    "type": "income"
+  },
+  {
+    "id": 724,
+    "description": "Prêmios",
+    "amount": 450,
+    "date": "2023-06-27",
+    "type": "income"
+  },
+  {
+    "id": 956,
+    "description": "Entretenimento",
+    "amount": 828,
+    "date": "2023-06-27",
+    "type": "expense"
+  },
+  {
+    "id": 233,
+    "description": "Renda Extra",
+    "amount": 276,
+    "date": "2023-06-28",
+    "type": "income"
+  },
+  {
+    "id": 423,
+    "description": "Salão",
+    "amount": 302,
+    "date": "2023-06-28",
+    "type": "expense"
+  },
+  {
+    "id": 468,
+    "description": "Seguro",
+    "amount": 126,
+    "date": "2023-06-28",
+    "type": "expense"
+  },
+  {
+    "id": 128,
+    "description": "Supermercado",
+    "amount": 241,
+    "date": "2023-06-29",
+    "type": "expense"
+  },
+  {
+    "id": 141,
+    "description": "Renda Extra",
+    "amount": 832,
+    "date": "2023-06-29",
+    "type": "income"
+  },
+  {
+    "id": 767,
+    "description": "Horas Extras",
+    "amount": 943,
+    "date": "2023-06-29",
+    "type": "income"
+  },
+  {
+    "id": 457,
+    "description": "Renda Extra",
+    "amount": 544,
+    "date": "2023-06-30",
+    "type": "income"
+  },
+  {
+    "id": 745,
+    "description": "Vendas",
+    "amount": 825,
+    "date": "2023-07-02",
+    "type": "income"
+  },
+  {
+    "id": 905,
+    "description": "Dividendos",
+    "amount": 302,
+    "date": "2023-07-02",
+    "type": "income"
+  },
+  {
+    "id": 83,
+    "description": "Bônus",
+    "amount": 246,
+    "date": "2023-07-03",
+    "type": "income"
+  },
+  {
+    "id": 584,
+    "description": "Salário",
+    "amount": 982,
+    "date": "2023-07-04",
+    "type": "income"
+  },
+  {
+    "id": 982,
+    "description": "Outras Receitas",
+    "amount": 700,
+    "date": "2023-07-04",
+    "type": "income"
+  },
+  {
+    "id": 525,
+    "description": "Renda Extra",
+    "amount": 225,
+    "date": "2023-07-05",
+    "type": "income"
+  },
+  {
+    "id": 679,
+    "description": "Conta telefônica",
+    "amount": 428,
+    "date": "2023-07-05",
+    "type": "expense"
+  },
+  {
+    "id": 122,
+    "description": "Horas Extras",
+    "amount": 749,
+    "date": "2023-07-06",
+    "type": "income"
+  },
+  {
+    "id": 392,
+    "description": "Outras Receitas",
+    "amount": 108,
+    "date": "2023-07-06",
+    "type": "income"
+  },
+  {
+    "id": 916,
+    "description": "Outros Gastos",
+    "amount": 395,
+    "date": "2023-07-06",
+    "type": "expense"
+  },
+  {
+    "id": 108,
+    "description": "Prêmios",
+    "amount": 789,
+    "date": "2023-07-07",
+    "type": "income"
+  },
+  {
+    "id": 306,
+    "description": "Aluguel de Imóveis",
+    "amount": 123,
+    "date": "2023-07-07",
+    "type": "income"
+  },
+  {
+    "id": 632,
+    "description": "Aluguel",
+    "amount": 167,
+    "date": "2023-07-07",
+    "type": "expense"
+  },
+  {
+    "id": 565,
+    "description": "Renda Extra",
+    "amount": 305,
+    "date": "2023-07-08",
+    "type": "income"
+  },
+  {
+    "id": 120,
+    "description": "Horas Extras",
+    "amount": 599,
+    "date": "2023-07-09",
+    "type": "income"
+  },
+  {
+    "id": 174,
+    "description": "Horas Extras",
+    "amount": 719,
+    "date": "2023-07-10",
+    "type": "income"
+  },
+  {
+    "id": 298,
+    "description": "Dividendos",
+    "amount": 719,
+    "date": "2023-07-10",
+    "type": "income"
+  },
+  {
+    "id": 619,
+    "description": "Suplementos",
+    "amount": 239,
+    "date": "2023-07-10",
+    "type": "expense"
+  },
+  {
+    "id": 184,
+    "description": "Dividendos",
+    "amount": 65,
+    "date": "2023-07-12",
+    "type": "income"
+  },
+  {
+    "id": 4,
+    "description": "Outras Receitas",
+    "amount": 823,
+    "date": "2023-07-14",
+    "type": "income"
+  },
+  {
+    "id": 652,
+    "description": "Investimentos",
+    "amount": 424,
+    "date": "2023-07-15",
+    "type": "income"
+  },
+  {
+    "id": 848,
+    "description": "Horas Extras",
+    "amount": 72,
+    "date": "2023-07-15",
+    "type": "income"
+  },
+  {
+    "id": 295,
+    "description": "Outras Receitas",
+    "amount": 382,
+    "date": "2023-07-16",
+    "type": "income"
+  },
+  {
+    "id": 817,
+    "description": "Outros Gastos",
+    "amount": 489,
+    "date": "2023-07-16",
+    "type": "expense"
+  },
+  {
+    "id": 27,
+    "description": "Dividendos",
+    "amount": 280,
+    "date": "2023-07-18",
+    "type": "income"
+  },
+  {
+    "id": 426,
+    "description": "Aluguel de Imóveis",
+    "amount": 715,
+    "date": "2023-07-18",
+    "type": "income"
+  },
+  {
+    "id": 795,
+    "description": "Renda Extra",
+    "amount": 403,
+    "date": "2023-07-20",
+    "type": "income"
+  },
+  {
+    "id": 98,
+    "description": "Presentes",
+    "amount": 111,
+    "date": "2023-07-21",
+    "type": "expense"
+  },
+  {
+    "id": 638,
+    "description": "Horas Extras",
+    "amount": 390,
+    "date": "2023-07-21",
+    "type": "income"
+  },
+  {
+    "id": 97,
+    "description": "Bônus",
+    "amount": 668,
+    "date": "2023-07-22",
+    "type": "income"
+  },
+  {
+    "id": 625,
+    "description": "Horas Extras",
+    "amount": 202,
+    "date": "2023-07-22",
+    "type": "income"
+  },
+  {
+    "id": 199,
+    "description": "Consultoria",
+    "amount": 436,
+    "date": "2023-07-23",
+    "type": "expense"
+  },
+  {
+    "id": 532,
+    "description": "PetShop",
+    "amount": 48,
+    "date": "2023-07-23",
+    "type": "expense"
+  },
+  {
+    "id": 970,
+    "description": "Outras Receitas",
+    "amount": 222,
+    "date": "2023-07-24",
+    "type": "income"
+  },
+  {
+    "id": 836,
+    "description": "Salário",
+    "amount": 17,
+    "date": "2023-07-25",
+    "type": "income"
+  },
+  {
+    "id": 573,
+    "description": "Aluguel de Imóveis",
+    "amount": 463,
+    "date": "2023-07-26",
+    "type": "income"
+  },
+  {
+    "id": 685,
+    "description": "Bônus",
+    "amount": 742,
+    "date": "2023-07-26",
+    "type": "income"
+  },
+  {
+    "id": 44,
+    "description": "Outras Receitas",
+    "amount": 656,
+    "date": "2023-07-27",
+    "type": "income"
+  },
+  {
+    "id": 698,
+    "description": "Vendas",
+    "amount": 516,
+    "date": "2023-07-28",
+    "type": "income"
+  },
+  {
+    "id": 773,
+    "description": "Dividendos",
+    "amount": 417,
+    "date": "2023-07-28",
+    "type": "income"
+  },
+  {
+    "id": 330,
+    "description": "Vendas",
+    "amount": 482,
+    "date": "2023-07-29",
+    "type": "income"
+  },
+  {
+    "id": 715,
+    "description": "Entretenimento",
+    "amount": 807,
+    "date": "2023-07-29",
+    "type": "expense"
+  },
+  {
+    "id": 873,
+    "description": "Supermercado",
+    "amount": 934,
+    "date": "2023-07-30",
+    "type": "expense"
+  },
+  {
+    "id": 764,
+    "description": "Salário",
+    "amount": 275,
+    "date": "2023-08-01",
+    "type": "income"
+  },
+  {
+    "id": 871,
+    "description": "Bônus",
+    "amount": 416,
+    "date": "2023-08-02",
+    "type": "income"
+  },
+  {
+    "id": 527,
+    "description": "Aluguel",
+    "amount": 208,
+    "date": "2023-08-03",
+    "type": "expense"
+  },
+  {
+    "id": 821,
+    "description": "Luz",
+    "amount": 999,
+    "date": "2023-08-04",
+    "type": "expense"
+  },
+  {
+    "id": 820,
+    "description": "Academia",
+    "amount": 978,
+    "date": "2023-08-05",
+    "type": "expense"
+  },
+  {
+    "id": 980,
+    "description": "Transporte",
+    "amount": 640,
+    "date": "2023-08-05",
+    "type": "expense"
+  },
+  {
+    "id": 514,
+    "description": "Viagem",
+    "amount": 937,
+    "date": "2023-08-06",
+    "type": "expense"
+  },
+  {
+    "id": 458,
+    "description": "Vendas",
+    "amount": 244,
+    "date": "2023-08-08",
+    "type": "income"
+  },
+  {
+    "id": 674,
+    "description": "Salário",
+    "amount": 71,
+    "date": "2023-08-08",
+    "type": "income"
+  },
+  {
+    "id": 863,
+    "description": "Entretenimento",
+    "amount": 231,
+    "date": "2023-08-08",
+    "type": "expense"
+  },
+  {
+    "id": 874,
+    "description": "Vendas",
+    "amount": 52,
+    "date": "2023-08-08",
+    "type": "income"
+  },
+  {
+    "id": 246,
+    "description": "Vendas",
+    "amount": 946,
+    "date": "2023-08-11",
+    "type": "income"
+  },
+  {
+    "id": 266,
+    "description": "Horas Extras",
+    "amount": 149,
+    "date": "2023-08-11",
+    "type": "income"
+  },
+  {
+    "id": 946,
+    "description": "Manutenção do Lar",
+    "amount": 23,
+    "date": "2023-08-11",
+    "type": "expense"
+  },
+  {
+    "id": 814,
+    "description": "Aluguel de Imóveis",
+    "amount": 502,
+    "date": "2023-08-12",
+    "type": "income"
+  },
+  {
+    "id": 842,
+    "description": "Renda Extra",
+    "amount": 833,
+    "date": "2023-08-12",
+    "type": "income"
+  },
+  {
+    "id": 107,
+    "description": "Cuidados Pessoais",
+    "amount": 660,
+    "date": "2023-08-13",
+    "type": "expense"
+  },
+  {
+    "id": 421,
+    "description": "Seguro",
+    "amount": 979,
+    "date": "2023-08-13",
+    "type": "expense"
+  },
+  {
+    "id": 932,
+    "description": "Vestuário",
+    "amount": 622,
+    "date": "2023-08-13",
+    "type": "expense"
+  },
+  {
+    "id": 5,
+    "description": "Vendas",
+    "amount": 130,
+    "date": "2023-08-14",
+    "type": "income"
+  },
+  {
+    "id": 238,
+    "description": "Salário",
+    "amount": 84,
+    "date": "2023-08-15",
+    "type": "income"
+  },
+  {
+    "id": 752,
+    "description": "Cuidados Pessoais",
+    "amount": 463,
+    "date": "2023-08-15",
+    "type": "expense"
+  },
+  {
+    "id": 772,
+    "description": "Impostos",
+    "amount": 38,
+    "date": "2023-08-15",
+    "type": "expense"
+  },
+  {
+    "id": 962,
+    "description": "Cuidados Pessoais",
+    "amount": 430,
+    "date": "2023-08-15",
+    "type": "expense"
+  },
+  {
+    "id": 447,
+    "description": "Suplementos",
+    "amount": 599,
+    "date": "2023-08-16",
+    "type": "expense"
+  },
+  {
+    "id": 633,
+    "description": "Renda Extra",
+    "amount": 556,
+    "date": "2023-08-16",
+    "type": "income"
+  },
+  {
+    "id": 146,
+    "description": "Transporte",
+    "amount": 787,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 162,
+    "description": "Água",
+    "amount": 475,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 318,
+    "description": "Manipulados",
+    "amount": 931,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 449,
+    "description": "Consultoria",
+    "amount": 553,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 683,
+    "description": "Cinema",
+    "amount": 91,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 924,
+    "description": "Gasolina",
+    "amount": 916,
+    "date": "2023-08-17",
+    "type": "expense"
+  },
+  {
+    "id": 744,
+    "description": "Manipulados",
+    "amount": 840,
+    "date": "2023-08-19",
+    "type": "expense"
+  },
+  {
+    "id": 21,
+    "description": "Farmácia",
+    "amount": 997,
+    "date": "2023-08-21",
+    "type": "expense"
+  },
+  {
+    "id": 859,
+    "description": "Aluguel",
+    "amount": 303,
+    "date": "2023-08-21",
+    "type": "expense"
+  },
+  {
+    "id": 722,
+    "description": "Dividendos",
+    "amount": 18,
+    "date": "2023-08-22",
+    "type": "income"
+  },
+  {
+    "id": 846,
+    "description": "Cuidados Pessoais",
+    "amount": 750,
+    "date": "2023-08-22",
+    "type": "expense"
+  },
+  {
+    "id": 854,
+    "description": "Seguro",
+    "amount": 384,
+    "date": "2023-08-22",
+    "type": "expense"
+  },
+  {
+    "id": 783,
+    "description": "Presentes",
+    "amount": 979,
+    "date": "2023-08-23",
+    "type": "expense"
+  },
+  {
+    "id": 296,
+    "description": "Aluguel de Imóveis",
+    "amount": 640,
+    "date": "2023-08-24",
+    "type": "income"
+  },
+  {
+    "id": 589,
+    "description": "Transporte",
+    "amount": 244,
+    "date": "2023-08-24",
+    "type": "expense"
+  },
+  {
+    "id": 968,
+    "description": "Farmácia",
+    "amount": 107,
+    "date": "2023-08-24",
+    "type": "expense"
+  },
+  {
+    "id": 519,
+    "description": "Água",
+    "amount": 440,
+    "date": "2023-08-27",
+    "type": "expense"
+  },
+  {
+    "id": 488,
+    "description": "Supermercado",
+    "amount": 195,
+    "date": "2023-08-28",
+    "type": "expense"
+  },
+  {
+    "id": 480,
+    "description": "Consultoria",
+    "amount": 970,
+    "date": "2023-08-29",
+    "type": "expense"
+  },
+  {
+    "id": 542,
+    "description": "Dividendos",
+    "amount": 191,
+    "date": "2023-08-29",
+    "type": "income"
+  },
+  {
+    "id": 885,
+    "description": "Salário",
+    "amount": 484,
+    "date": "2023-08-29",
+    "type": "income"
+  },
+  {
+    "id": 912,
+    "description": "Farmácia",
+    "amount": 646,
+    "date": "2023-08-29",
+    "type": "expense"
+  },
+  {
+    "id": 176,
+    "description": "Educação",
+    "amount": 420,
+    "date": "2023-08-30",
+    "type": "expense"
+  },
+  {
+    "id": 185,
+    "description": "Salão",
+    "amount": 526,
+    "date": "2023-08-31",
+    "type": "expense"
+  },
+  {
+    "id": 102,
+    "description": "Gasolina",
+    "amount": 36,
+    "date": "2023-09-01",
+    "type": "expense"
+  },
+  {
+    "id": 582,
+    "description": "Seguro",
+    "amount": 476,
+    "date": "2023-09-01",
+    "type": "expense"
+  },
+  {
+    "id": 461,
+    "description": "Restaurante",
+    "amount": 9,
+    "date": "2023-09-02",
+    "type": "expense"
+  },
+  {
+    "id": 651,
+    "description": "Cuidados Pessoais",
+    "amount": 877,
+    "date": "2023-09-02",
+    "type": "expense"
+  },
+  {
+    "id": 712,
+    "description": "Prêmios",
+    "amount": 715,
+    "date": "2023-09-02",
+    "type": "income"
+  },
+  {
+    "id": 671,
+    "description": "Renda Extra",
+    "amount": 744,
+    "date": "2023-09-03",
+    "type": "income"
+  },
+  {
+    "id": 918,
+    "description": "Impostos",
+    "amount": 38,
+    "date": "2023-09-03",
+    "type": "expense"
+  },
+  {
+    "id": 336,
+    "description": "Manutenção do Lar",
+    "amount": 917,
+    "date": "2023-09-04",
+    "type": "expense"
+  },
+  {
+    "id": 967,
+    "description": "Salário",
+    "amount": 264,
+    "date": "2023-09-04",
+    "type": "income"
+  },
+  {
+    "id": 48,
+    "description": "Educação",
+    "amount": 730,
+    "date": "2023-09-05",
+    "type": "expense"
+  },
+  {
+    "id": 927,
+    "description": "Prêmios",
+    "amount": 746,
+    "date": "2023-09-06",
+    "type": "income"
+  },
+  {
+    "id": 161,
+    "description": "Conta telefônica",
+    "amount": 565,
+    "date": "2023-09-07",
+    "type": "expense"
+  },
+  {
+    "id": 545,
+    "description": "Prêmios",
+    "amount": 486,
+    "date": "2023-09-07",
+    "type": "income"
+  },
+  {
+    "id": 857,
+    "description": "Conta telefônica",
+    "amount": 467,
+    "date": "2023-09-08",
+    "type": "expense"
+  },
+  {
+    "id": 405,
+    "description": "Farmácia",
+    "amount": 489,
+    "date": "2023-09-12",
+    "type": "expense"
+  },
+  {
+    "id": 822,
+    "description": "Horas Extras",
+    "amount": 970,
+    "date": "2023-09-13",
+    "type": "income"
+  },
+  {
+    "id": 151,
+    "description": "Aluguel de Imóveis",
+    "amount": 475,
+    "date": "2023-09-14",
+    "type": "income"
+  },
+  {
+    "id": 696,
+    "description": "Transporte",
+    "amount": 682,
+    "date": "2023-09-14",
+    "type": "expense"
+  },
+  {
+    "id": 355,
+    "description": "Salário",
+    "amount": 372,
+    "date": "2023-09-15",
+    "type": "income"
+  },
+  {
+    "id": 613,
+    "description": "Reembolso",
+    "amount": 946,
+    "date": "2023-09-15",
+    "type": "income"
+  },
+  {
+    "id": 667,
+    "description": "Vestuário",
+    "amount": 310,
+    "date": "2023-09-15",
+    "type": "expense"
+  },
+  {
+    "id": 730,
+    "description": "Renda Extra",
+    "amount": 835,
+    "date": "2023-09-15",
+    "type": "income"
+  },
+  {
+    "id": 37,
+    "description": "Entretenimento",
+    "amount": 161,
+    "date": "2023-09-16",
+    "type": "expense"
+  },
+  {
+    "id": 81,
+    "description": "Consultoria",
+    "amount": 250,
+    "date": "2023-09-16",
+    "type": "expense"
+  },
+  {
+    "id": 631,
+    "description": "Investimentos",
+    "amount": 553,
+    "date": "2023-09-16",
+    "type": "income"
+  },
+  {
+    "id": 42,
+    "description": "Luz",
+    "amount": 853,
+    "date": "2023-09-17",
+    "type": "expense"
+  },
+  {
+    "id": 557,
+    "description": "Vendas",
+    "amount": 83,
+    "date": "2023-09-17",
+    "type": "income"
+  },
+  {
+    "id": 552,
+    "description": "Suplementos",
+    "amount": 732,
+    "date": "2023-09-18",
+    "type": "expense"
+  },
+  {
+    "id": 985,
+    "description": "Transporte",
+    "amount": 361,
+    "date": "2023-09-18",
+    "type": "expense"
+  },
+  {
+    "id": 72,
+    "description": "Manipulados",
+    "amount": 611,
+    "date": "2023-09-19",
+    "type": "expense"
+  },
+  {
+    "id": 564,
+    "description": "Outros Gastos",
+    "amount": 184,
+    "date": "2023-09-19",
+    "type": "expense"
+  },
+  {
+    "id": 707,
+    "description": "Cinema",
+    "amount": 850,
+    "date": "2023-09-19",
+    "type": "expense"
+  },
+  {
+    "id": 713,
+    "description": "Bônus",
+    "amount": 800,
+    "date": "2023-09-19",
+    "type": "income"
+  },
+  {
+    "id": 537,
+    "description": "Horas Extras",
+    "amount": 641,
+    "date": "2023-09-20",
+    "type": "income"
+  },
+  {
+    "id": 897,
+    "description": "Reembolso",
+    "amount": 630,
+    "date": "2023-09-20",
+    "type": "income"
+  },
+  {
+    "id": 861,
+    "description": "Aluguel de Imóveis",
+    "amount": 26,
+    "date": "2023-09-22",
+    "type": "income"
+  },
+  {
+    "id": 255,
+    "description": "Manutenção do Lar",
+    "amount": 676,
+    "date": "2023-09-25",
+    "type": "expense"
+  },
+  {
+    "id": 391,
+    "description": "Bônus",
+    "amount": 590,
+    "date": "2023-09-27",
+    "type": "income"
+  },
+  {
+    "id": 796,
+    "description": "Outras Receitas",
+    "amount": 631,
+    "date": "2023-09-27",
+    "type": "income"
+  },
+  {
+    "id": 510,
+    "description": "Manipulados",
+    "amount": 221,
+    "date": "2023-09-29",
+    "type": "expense"
+  },
+  {
+    "id": 522,
+    "description": "Aluguel de Imóveis",
+    "amount": 181,
+    "date": "2023-09-30",
+    "type": "income"
+  },
+  {
+    "id": 615,
+    "description": "Cuidados Pessoais",
+    "amount": 566,
+    "date": "2023-09-30",
+    "type": "expense"
+  },
+  {
+    "id": 884,
+    "description": "Salário",
+    "amount": 332,
+    "date": "2023-09-30",
+    "type": "income"
+  },
+  {
+    "id": 271,
+    "description": "Investimentos",
+    "amount": 145,
+    "date": "2023-10-02",
+    "type": "income"
+  },
+  {
+    "id": 467,
+    "description": "Outras Receitas",
+    "amount": 230,
+    "date": "2023-10-02",
+    "type": "income"
+  },
+  {
+    "id": 523,
+    "description": "Vendas",
+    "amount": 400,
+    "date": "2023-10-02",
+    "type": "income"
+  },
+  {
+    "id": 62,
+    "description": "Reembolso",
+    "amount": 588,
+    "date": "2023-10-03",
+    "type": "income"
+  },
+  {
+    "id": 402,
+    "description": "Renda Extra",
+    "amount": 722,
+    "date": "2023-10-03",
+    "type": "income"
+  },
+  {
+    "id": 464,
+    "description": "Horas Extras",
+    "amount": 740,
+    "date": "2023-10-04",
+    "type": "income"
+  },
+  {
+    "id": 95,
+    "description": "Suplementos",
+    "amount": 281,
+    "date": "2023-10-06",
+    "type": "expense"
+  },
+  {
+    "id": 566,
+    "description": "Prêmios",
+    "amount": 346,
+    "date": "2023-10-06",
+    "type": "income"
+  },
+  {
+    "id": 815,
+    "description": "Reembolso",
+    "amount": 900,
+    "date": "2023-10-06",
+    "type": "income"
+  },
+  {
+    "id": 41,
+    "description": "Salário",
+    "amount": 250,
+    "date": "2023-10-09",
+    "type": "income"
+  },
+  {
+    "id": 736,
+    "description": "Restaurante",
+    "amount": 654,
+    "date": "2023-10-09",
+    "type": "expense"
+  },
+  {
+    "id": 272,
+    "description": "Salário",
+    "amount": 601,
+    "date": "2023-10-10",
+    "type": "income"
+  },
+  {
+    "id": 737,
+    "description": "Salário",
+    "amount": 667,
+    "date": "2023-10-13",
+    "type": "income"
+  },
+  {
+    "id": 816,
+    "description": "Bônus",
+    "amount": 680,
+    "date": "2023-10-13",
+    "type": "income"
+  },
+  {
+    "id": 135,
+    "description": "Renda Extra",
+    "amount": 361,
+    "date": "2023-10-14",
+    "type": "income"
+  },
+  {
+    "id": 766,
+    "description": "Horas Extras",
+    "amount": 170,
+    "date": "2023-10-14",
+    "type": "income"
+  },
+  {
+    "id": 172,
+    "description": "Vendas",
+    "amount": 598,
+    "date": "2023-10-17",
+    "type": "income"
+  },
+  {
+    "id": 475,
+    "description": "Aluguel de Imóveis",
+    "amount": 598,
+    "date": "2023-10-17",
+    "type": "income"
+  },
+  {
+    "id": 928,
+    "description": "Luz",
+    "amount": 782,
+    "date": "2023-10-20",
+    "type": "expense"
+  },
+  {
+    "id": 654,
+    "description": "Reembolso",
+    "amount": 14,
+    "date": "2023-10-22",
+    "type": "income"
+  },
+  {
+    "id": 235,
+    "description": "Aluguel de Imóveis",
+    "amount": 330,
+    "date": "2023-10-24",
+    "type": "income"
+  },
+  {
+    "id": 567,
+    "description": "Salário",
+    "amount": 226,
+    "date": "2023-10-25",
+    "type": "income"
+  },
+  {
+    "id": 813,
+    "description": "Renda Extra",
+    "amount": 813,
+    "date": "2023-10-25",
+    "type": "income"
+  },
+  {
+    "id": 46,
+    "description": "Investimentos",
+    "amount": 863,
+    "date": "2023-10-26",
+    "type": "income"
+  },
+  {
+    "id": 445,
+    "description": "Água",
+    "amount": 689,
+    "date": "2023-10-26",
+    "type": "expense"
+  },
+  {
+    "id": 448,
+    "description": "Manutenção do Lar",
+    "amount": 193,
+    "date": "2023-10-26",
+    "type": "expense"
+  },
+  {
+    "id": 608,
+    "description": "Salário",
+    "amount": 488,
+    "date": "2023-10-27",
+    "type": "income"
+  },
+  {
+    "id": 647,
+    "description": "Presentes",
+    "amount": 116,
+    "date": "2023-10-27",
+    "type": "expense"
+  },
+  {
+    "id": 383,
+    "description": "PetShop",
+    "amount": 417,
+    "date": "2023-10-28",
+    "type": "expense"
+  },
+  {
+    "id": 639,
+    "description": "Salário",
+    "amount": 512,
+    "date": "2023-10-28",
+    "type": "income"
+  },
+  {
+    "id": 824,
+    "description": "Renda Extra",
+    "amount": 647,
+    "date": "2023-10-28",
+    "type": "income"
+  },
+  {
+    "id": 876,
+    "description": "Seguro",
+    "amount": 266,
+    "date": "2023-10-28",
+    "type": "expense"
+  },
+  {
+    "id": 106,
+    "description": "Impostos",
+    "amount": 500,
+    "date": "2023-10-29",
+    "type": "expense"
+  },
+  {
+    "id": 291,
+    "description": "Cinema",
+    "amount": 313,
+    "date": "2023-10-29",
+    "type": "expense"
+  },
+  {
+    "id": 299,
+    "description": "Bônus",
+    "amount": 886,
+    "date": "2023-10-29",
+    "type": "income"
+  },
+  {
+    "id": 406,
+    "description": "Farmácia",
+    "amount": 71,
+    "date": "2023-10-29",
+    "type": "expense"
+  },
+  {
+    "id": 786,
+    "description": "Renda Extra",
+    "amount": 552,
+    "date": "2023-10-29",
+    "type": "income"
+  },
+  {
+    "id": 90,
+    "description": "Presentes",
+    "amount": 236,
+    "date": "2023-10-30",
+    "type": "expense"
+  },
+  {
+    "id": 400,
+    "description": "Investimentos",
+    "amount": 380,
+    "date": "2023-10-30",
+    "type": "income"
+  },
+  {
+    "id": 373,
+    "description": "Renda Extra",
+    "amount": 153,
+    "date": "2023-10-31",
+    "type": "income"
+  },
+  {
+    "id": 155,
+    "description": "Vendas",
+    "amount": 1,
+    "date": "2023-11-01",
+    "type": "income"
+  },
+  {
+    "id": 386,
+    "description": "Cuidados Pessoais",
+    "amount": 440,
+    "date": "2023-11-04",
+    "type": "expense"
+  },
+  {
+    "id": 779,
+    "description": "Vendas",
+    "amount": 276,
+    "date": "2023-11-04",
+    "type": "income"
+  },
+  {
+    "id": 322,
+    "description": "Seguro",
+    "amount": 622,
+    "date": "2023-11-05",
+    "type": "expense"
+  },
+  {
+    "id": 934,
+    "description": "Gasolina",
+    "amount": 492,
+    "date": "2023-11-05",
+    "type": "expense"
+  },
+  {
+    "id": 506,
+    "description": "Salário",
+    "amount": 723,
+    "date": "2023-11-06",
+    "type": "income"
+  },
+  {
+    "id": 627,
+    "description": "Salário",
+    "amount": 267,
+    "date": "2023-11-06",
+    "type": "income"
+  },
+  {
+    "id": 875,
+    "description": "Conta telefônica",
+    "amount": 667,
+    "date": "2023-11-06",
+    "type": "expense"
+  },
+  {
+    "id": 799,
+    "description": "Vendas",
+    "amount": 29,
+    "date": "2023-11-08",
+    "type": "income"
+  },
+  {
+    "id": 801,
+    "description": "Salário",
+    "amount": 880,
+    "date": "2023-11-08",
+    "type": "income"
+  },
+  {
+    "id": 725,
+    "description": "Bônus",
+    "amount": 18,
+    "date": "2023-11-09",
+    "type": "income"
+  },
+  {
+    "id": 433,
+    "description": "Dividendos",
+    "amount": 633,
+    "date": "2023-11-10",
+    "type": "income"
+  },
+  {
+    "id": 997,
+    "description": "Entretenimento",
+    "amount": 320,
+    "date": "2023-11-10",
+    "type": "expense"
+  },
+  {
+    "id": 130,
+    "description": "Impostos",
+    "amount": 716,
+    "date": "2023-11-11",
+    "type": "expense"
+  },
+  {
+    "id": 201,
+    "description": "Prêmios",
+    "amount": 617,
+    "date": "2023-11-13",
+    "type": "income"
+  },
+  {
+    "id": 409,
+    "description": "Vendas",
+    "amount": 621,
+    "date": "2023-11-14",
+    "type": "income"
+  },
+  {
+    "id": 605,
+    "description": "Suplementos",
+    "amount": 495,
+    "date": "2023-11-14",
+    "type": "expense"
+  },
+  {
+    "id": 930,
+    "description": "Água",
+    "amount": 435,
+    "date": "2023-11-14",
+    "type": "expense"
+  },
+  {
+    "id": 265,
+    "description": "Reembolso",
+    "amount": 823,
+    "date": "2023-11-15",
+    "type": "income"
+  },
+  {
+    "id": 646,
+    "description": "Dividendos",
+    "amount": 540,
+    "date": "2023-11-16",
+    "type": "income"
+  },
+  {
+    "id": 800,
+    "description": "Aluguel de Imóveis",
+    "amount": 278,
+    "date": "2023-11-18",
+    "type": "income"
+  },
+  {
+    "id": 949,
+    "description": "Salão",
+    "amount": 503,
+    "date": "2023-11-20",
+    "type": "expense"
+  },
+  {
+    "id": 94,
+    "description": "PetShop",
+    "amount": 540,
+    "date": "2023-11-21",
+    "type": "expense"
+  },
+  {
+    "id": 22,
+    "description": "Manutenção do Lar",
+    "amount": 864,
+    "date": "2023-11-22",
+    "type": "expense"
+  },
+  {
+    "id": 66,
+    "description": "Restaurante",
+    "amount": 633,
+    "date": "2023-11-22",
+    "type": "expense"
+  },
+  {
+    "id": 352,
+    "description": "Reembolso",
+    "amount": 96,
+    "date": "2023-11-22",
+    "type": "income"
+  },
+  {
+    "id": 792,
+    "description": "Água",
+    "amount": 747,
+    "date": "2023-11-22",
+    "type": "expense"
+  },
+  {
+    "id": 56,
+    "description": "Restaurante",
+    "amount": 99,
+    "date": "2023-11-24",
+    "type": "expense"
+  },
+  {
+    "id": 197,
+    "description": "Manipulados",
+    "amount": 39,
+    "date": "2023-11-24",
+    "type": "expense"
+  },
+  {
+    "id": 422,
+    "description": "Reembolso",
+    "amount": 670,
+    "date": "2023-11-24",
+    "type": "income"
+  },
+  {
+    "id": 793,
+    "description": "Seguro",
+    "amount": 755,
+    "date": "2023-11-24",
+    "type": "expense"
+  },
+  {
+    "id": 85,
+    "description": "Vendas",
+    "amount": 840,
+    "date": "2023-11-25",
+    "type": "income"
+  },
+  {
+    "id": 479,
+    "description": "Impostos",
+    "amount": 186,
+    "date": "2023-11-25",
+    "type": "expense"
+  },
+  {
+    "id": 940,
+    "description": "Reembolso",
+    "amount": 204,
+    "date": "2023-11-25",
+    "type": "income"
+  },
+  {
+    "id": 305,
+    "description": "Supermercado",
+    "amount": 48,
+    "date": "2023-11-26",
+    "type": "expense"
+  },
+  {
+    "id": 311,
+    "description": "Aluguel de Imóveis",
+    "amount": 455,
+    "date": "2023-11-26",
+    "type": "income"
+  },
+  {
+    "id": 28,
+    "description": "Cuidados Pessoais",
+    "amount": 36,
+    "date": "2023-11-28",
+    "type": "expense"
+  },
+  {
+    "id": 59,
+    "description": "Salão",
+    "amount": 912,
+    "date": "2023-11-28",
+    "type": "expense"
+  },
+  {
+    "id": 315,
+    "description": "Luz",
+    "amount": 751,
+    "date": "2023-11-29",
+    "type": "expense"
+  },
+  {
+    "id": 484,
+    "description": "Academia",
+    "amount": 90,
+    "date": "2023-11-29",
+    "type": "expense"
+  },
+  {
+    "id": 75,
+    "description": "Horas Extras",
+    "amount": 232,
+    "date": "2023-11-30",
+    "type": "income"
+  },
+  {
+    "id": 425,
+    "description": "Salário",
+    "amount": 147,
+    "date": "2023-11-30",
+    "type": "income"
+  },
+  {
+    "id": 601,
+    "description": "Prêmios",
+    "amount": 992,
+    "date": "2023-11-30",
+    "type": "income"
+  },
+  {
+    "id": 653,
+    "description": "Luz",
+    "amount": 954,
+    "date": "2023-11-30",
+    "type": "expense"
+  },
+  {
+    "id": 894,
+    "description": "Investimentos",
+    "amount": 881,
+    "date": "2023-11-30",
+    "type": "income"
+  },
+  {
+    "id": 293,
+    "description": "Educação",
+    "amount": 334,
+    "date": "2023-12-01",
+    "type": "expense"
+  },
+  {
+    "id": 865,
+    "description": "Prêmios",
+    "amount": 3,
+    "date": "2023-12-01",
+    "type": "income"
+  },
+  {
+    "id": 444,
+    "description": "Horas Extras",
+    "amount": 569,
+    "date": "2023-12-02",
+    "type": "income"
+  },
+  {
+    "id": 241,
+    "description": "Renda Extra",
+    "amount": 798,
+    "date": "2023-12-03",
+    "type": "income"
+  },
+  {
+    "id": 620,
+    "description": "Luz",
+    "amount": 728,
+    "date": "2023-12-03",
+    "type": "expense"
+  },
+  {
+    "id": 39,
+    "description": "Outras Receitas",
+    "amount": 364,
+    "date": "2023-12-04",
+    "type": "income"
+  },
+  {
+    "id": 35,
+    "description": "Prêmios",
+    "amount": 67,
+    "date": "2023-12-05",
+    "type": "income"
+  },
+  {
+    "id": 203,
+    "description": "Prêmios",
+    "amount": 652,
+    "date": "2023-12-08",
+    "type": "income"
+  },
+  {
+    "id": 727,
+    "description": "Bônus",
+    "amount": 636,
+    "date": "2023-12-08",
+    "type": "income"
+  },
+  {
+    "id": 649,
+    "description": "Investimentos",
+    "amount": 653,
+    "date": "2023-12-09",
+    "type": "income"
+  },
+  {
+    "id": 216,
+    "description": "Outras Receitas",
+    "amount": 839,
+    "date": "2023-12-10",
+    "type": "income"
+  },
+  {
+    "id": 575,
+    "description": "Prêmios",
+    "amount": 44,
+    "date": "2023-12-10",
+    "type": "income"
+  },
+  {
+    "id": 170,
+    "description": "Restaurante",
+    "amount": 57,
+    "date": "2023-12-13",
+    "type": "expense"
+  },
+  {
+    "id": 243,
+    "description": "Salário",
+    "amount": 400,
+    "date": "2023-12-13",
+    "type": "income"
+  },
+  {
+    "id": 594,
+    "description": "Aluguel",
+    "amount": 340,
+    "date": "2023-12-14",
+    "type": "expense"
+  },
+  {
+    "id": 855,
+    "description": "Salário",
+    "amount": 393,
+    "date": "2023-12-15",
+    "type": "income"
+  },
+  {
+    "id": 385,
+    "description": "Suplementos",
+    "amount": 758,
+    "date": "2023-12-16",
+    "type": "expense"
+  },
+  {
+    "id": 740,
+    "description": "Reembolso",
+    "amount": 957,
+    "date": "2023-12-16",
+    "type": "income"
+  },
+  {
+    "id": 353,
+    "description": "Consultoria",
+    "amount": 116,
+    "date": "2023-12-17",
+    "type": "expense"
+  },
+  {
+    "id": 976,
+    "description": "Presentes",
+    "amount": 826,
+    "date": "2023-12-17",
+    "type": "expense"
+  },
+  {
+    "id": 521,
+    "description": "Presentes",
+    "amount": 189,
+    "date": "2023-12-18",
+    "type": "expense"
+  },
+  {
+    "id": 313,
+    "description": "Outras Receitas",
+    "amount": 745,
+    "date": "2023-12-19",
+    "type": "income"
+  },
+  {
+    "id": 612,
+    "description": "Salário",
+    "amount": 195,
+    "date": "2023-12-19",
+    "type": "income"
+  },
+  {
+    "id": 33,
+    "description": "Aluguel de Imóveis",
+    "amount": 102,
+    "date": "2023-12-20",
+    "type": "income"
+  },
+  {
+    "id": 297,
+    "description": "Investimentos",
+    "amount": 446,
+    "date": "2023-12-20",
+    "type": "income"
+  },
+  {
+    "id": 999,
+    "description": "PetShop",
+    "amount": 623,
+    "date": "2023-12-20",
+    "type": "expense"
+  },
+  {
+    "id": 175,
+    "description": "Água",
+    "amount": 224,
+    "date": "2023-12-21",
+    "type": "expense"
+  },
+  {
+    "id": 244,
+    "description": "Suplementos",
+    "amount": 176,
+    "date": "2023-12-22",
+    "type": "expense"
+  },
+  {
+    "id": 473,
+    "description": "Renda Extra",
+    "amount": 362,
+    "date": "2023-12-23",
+    "type": "income"
+  },
+  {
+    "id": 862,
+    "description": "Reembolso",
+    "amount": 172,
+    "date": "2023-12-23",
+    "type": "income"
+  },
+  {
+    "id": 958,
+    "description": "Investimentos",
+    "amount": 707,
+    "date": "2023-12-23",
+    "type": "income"
+  },
+  {
+    "id": 16,
+    "description": "Vestuário",
+    "amount": 499,
+    "date": "2023-12-24",
+    "type": "expense"
+  },
+  {
+    "id": 891,
+    "description": "Salão",
+    "amount": 738,
+    "date": "2023-12-24",
+    "type": "expense"
+  },
+  {
+    "id": 251,
+    "description": "Vestuário",
+    "amount": 219,
+    "date": "2023-12-25",
+    "type": "expense"
+  },
+  {
+    "id": 381,
+    "description": "PetShop",
+    "amount": 275,
+    "date": "2023-12-25",
+    "type": "expense"
+  },
+  {
+    "id": 804,
+    "description": "Dividendos",
+    "amount": 408,
+    "date": "2023-12-27",
+    "type": "income"
+  },
+  {
+    "id": 760,
+    "description": "Transporte",
+    "amount": 185,
+    "date": "2023-12-28",
+    "type": "expense"
+  },
+  {
+    "id": 374,
+    "description": "Renda Extra",
+    "amount": 402,
+    "date": "2023-12-29",
+    "type": "income"
+  },
+  {
+    "id": 603,
+    "description": "Educação",
+    "amount": 154,
+    "date": "2023-12-29",
+    "type": "expense"
+  },
+  {
+    "id": 294,
+    "description": "Aluguel de Imóveis",
+    "amount": 883,
+    "date": "2023-12-30",
+    "type": "income"
+  },
+  {
+    "id": 703,
+    "description": "Prêmios",
+    "amount": 323,
+    "date": "2023-12-30",
+    "type": "income"
+  }
+]
